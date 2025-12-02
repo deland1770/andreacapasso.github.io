@@ -36,7 +36,7 @@ Graphene and MXene membranes, ion transport, nanofluidics, surface-charge engine
 
 ## Professional Experience
 
-**2024 – pres. Tenured Research Scientist – Principal Investigator, INL**, Braga, Portugal
+**2024 – pres. Tenured Research Scientist – Principal Investigator, INL**, Braga, Portugal  
 **2020 – 2024  Staff Researcher, INL**, Braga, Portugal  
 **2018 – 2020  Marie Curie Research Fellow, INL**, Braga, Portugal  
 **2018 - 2018  Research Scientist, Yonsei University**, Seoul, Korea  
