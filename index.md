@@ -29,23 +29,23 @@ Graphene and MXene membranes, ion transport, nanofluidics, surface-charge engine
 
 ## Education
 
-**PhD in Materials Science**, Queensland University of Technology, Brisbane, Australia (2012)  
-**Laurea in Electronic Engineering**, University of Roma Tre, Rome, Italy (2007)
+**2012 PhD in Materials Science**, Queensland University of Technology, Brisbane, Australia  
+**2007 Laurea in Electronic Engineering**, University of Roma Tre, Rome, Italy
 
 ---
 
 ## Professional Experience
 
-**2024 – present • Tenured Research Scientist – Principal Investigator, INL**, Braga, Portugal
-**2020 – 2024 • Staff Researcher, INL**, Braga, Portugal  
-**2018 – 2020 • Marie Curie Research Fellow, INL**, Braga, Portugal  
-**2018 • Research Scientist, Yonsei University**, Seoul, Korea  
-**2014 – 2017 • Researcher, Italian Institute of Technology**, Genoa, Italy  
-**2013 – 2014 • Research Fellow, ENEA Casaccia Research Centre**, Rome, Italy  
-**2012 – 2016 • Visiting Researcher, Queensland University of Technology**, Brisbane, Australia  
-**2011 – 2012 • Postdoctoral Research Fellow, Queensland University of Technology**, Brisbane, Australia  
-**2010 – 2011 • Research Assistant, Queensland University of Technology**, Brisbane, Australia  
-**2010 – 2011 • Sessional Academic, Queensland University of Technology**, Brisbane, Australia  
+**2024 – pres. Tenured Research Scientist – Principal Investigator, INL**, Braga, Portugal
+**2020 – 2024  Staff Researcher, INL**, Braga, Portugal  
+**2018 – 2020  Marie Curie Research Fellow, INL**, Braga, Portugal  
+**2018 - 2018  Research Scientist, Yonsei University**, Seoul, Korea  
+**2014 – 2017  Researcher, Italian Institute of Technology**, Genoa, Italy  
+**2013 – 2014  Research Fellow, ENEA Casaccia Research Centre**, Rome, Italy  
+**2012 – 2016  Visiting Researcher, Queensland University of Technology**, Brisbane, Australia  
+**2011 – 2012  Postdoctoral Research Fellow, Queensland University of Technology**, Brisbane, Australia  
+**2010 – 2011  Sessional Academic, Queensland University of Technology**, Brisbane, Australia  
+**2010 – 2011  Research Assistant, Queensland University of Technology**, Brisbane, Australia  
 
 ---
 
