@@ -29,20 +29,44 @@ Graphene and MXene membranes, ion transport, nanofluidics, surface-charge engine
 
 ## Education
 
-**PhD**, Materials Science and Engineering  
-Institution / Years  
+**PhD in Materials Science**, Queensland University of Technology, Brisbane, Australia (2012)  
+Concentrations: nanotechnology, materials science, physics, photovoltaics.  
+Thesis: *Controlled growth of carbon nanotubes for electronic applications*.
 
-**MSc**, Physics or Materials Science  
-Institution / Years  
+**Laurea in Electronic Engineering**, University of Roma Tre, Rome, Italy (2007)
 
 ---
 
 ## Professional Experience
 
-2024 – present • Research Scientist PI, INL  
-2021 – 2024 • Researcher / Senior Scientist, INL  
-2018 – 2021 • Postdoctoral Researcher (specify)  
-2014 – 2018 • Previous positions (optional)
+**2024 – present • Tenured Research Scientist – Principal Investigator, INL**, Braga, Portugal
+
+**2020 – 2024 • Staff Researcher, INL**, Braga, Portugal  
+Principal Investigator of the GEMIS project.
+
+**2018 – 2020 • Marie Curie Research Fellow, INL**, Braga, Portugal  
+2D Materials and Devices.
+
+**2018 • Research Scientist, Yonsei University**, Seoul, Korea  
+Department of Materials Science and Engineering.
+
+**2014 – 2017 • Researcher, Italian Institute of Technology**, Genoa, Italy  
+Graphene Labs.
+
+**2013 – 2014 • Research Fellow, ENEA Casaccia Research Centre**, Rome, Italy  
+Department of Materials and New Technologies.
+
+**2012 – 2016 • Visiting Researcher, Queensland University of Technology**, Brisbane, Australia  
+Science and Engineering Faculty.
+
+**2011 – 2012 • Postdoctoral Research Fellow, Queensland University of Technology**, Brisbane, Australia  
+Science and Engineering Faculty.
+
+**2010 – 2011 • Research Assistant, Queensland University of Technology**, Brisbane, Australia  
+Faculty of Built Environment and Engineering.
+
+**2010 – 2011 • Sessional Academic, Queensland University of Technology**, Brisbane, Australia  
+School of Engineering Systems.
 
 ---
 
