@@ -11,6 +11,7 @@ title: Andrea Capasso
 
 <p style="font-size:18px; margin:0;">
 Research Scientist PI
+International Iberian Nanotechnology Laboratory (INL)
 </p>
 
 <p style="font-size:16px; margin-top:5px;">
@@ -29,23 +30,23 @@ Graphene and MXene membranes, ion transport, nanofluidics, surface-charge engine
 
 ## Education
 
-**2012 PhD in Materials Science**, Queensland University of Technology, Brisbane, Australia  
+**2012 PhD in Materials Science**, Queensland University of Technology (QUT), Brisbane, Australia  
 **2007 Laurea in Electronic Engineering**, University of Roma Tre, Rome, Italy
 
 ---
 
 ## Professional Experience
 
-2024 – pres.    INL – International Iberian Nanotechnology Laboratory, Braga, Portugal / **Tenured Research Scientist – Principal Investigator**  
-2020 – 2024     INL – International Iberian Nanotechnology Laboratory, Braga, Portugal / **Staff Researcher**  
-2018 – 2020     INL – International Iberian Nanotechnology Laboratory, Braga, Portugal / **Marie Curie Research Fellow**  
+2024 – pres.    INL, Braga, Portugal / **Tenured Research Scientist – Principal Investigator**  
+2020 – 2024     INL, Braga, Portugal / **Staff Researcher**  
+2018 – 2020     INL, Braga, Portugal / **Marie Curie Research Fellow**  
 2018            Yonsei University, Seoul, Korea / **Research Scientist**  
 2014 – 2017     Italian Institute of Technology, Genoa, Italy / **Researcher**  
 2013 – 2014     ENEA Casaccia Research Centre, Rome, Italy / **Research Fellow**  
-2012 – 2016     Queensland University of Technology, Brisbane, Australia / **Visiting Researcher**  
-2011 – 2012     Queensland University of Technology, Brisbane, Australia / **Postdoctoral Research Fellow**  
-2010 – 2011     Queensland University of Technology, Brisbane, Australia / **Sessional Academic**  
-2010 – 2011     Queensland University of Technology, Brisbane, Australia / **Research Assistant**
+2012 – 2016     QUT, Brisbane, Australia / **Visiting Researcher**  
+2011 – 2012     QUT, Brisbane, Australia / **Postdoctoral Research Fellow**  
+2010 – 2011     QUT, Brisbane, Australia / **Sessional Academic**  
+2010 – 2011     QUT, Brisbane, Australia / **Research Assistant**
 
 
 ---
