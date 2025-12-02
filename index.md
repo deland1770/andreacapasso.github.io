@@ -10,7 +10,7 @@ title: Andrea Capasso
 <h1 style="margin-bottom:10px;">Andrea Capasso</h1>
 
 <p style="font-size:18px; margin:0;">
-Research Scientist PI
+Research Scientist PI<br>
 International Iberian Nanotechnology Laboratory (INL)
 </p>
 
@@ -40,7 +40,7 @@ Graphene and MXene membranes, ion transport, nanofluidics, surface-charge engine
 2024 – pres.    INL, Braga, Portugal / **Tenured Research Scientist – Principal Investigator**  
 2020 – 2024     INL, Braga, Portugal / **Staff Researcher**  
 2018 – 2020     INL, Braga, Portugal / **Marie Curie Research Fellow**  
-2018            Yonsei University, Seoul, Korea / **Research Scientist**  
+2018 – 2018     Yonsei University, Seoul, Korea / **Research Scientist**  
 2014 – 2017     Italian Institute of Technology, Genoa, Italy / **Researcher**  
 2013 – 2014     ENEA Casaccia Research Centre, Rome, Italy / **Research Fellow**  
 2012 – 2016     QUT, Brisbane, Australia / **Visiting Researcher**  
