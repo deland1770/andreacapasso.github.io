@@ -37,16 +37,16 @@ Graphene and MXene membranes, ion transport, nanofluidics, surface-charge engine
 
 ## Professional Experience
 
-2024 – pres.    INL, Braga, Portugal / **Tenured Research Scientist – Principal Investigator**  
-2020 – 2024     INL, Braga, Portugal / **Staff Researcher**  
-2018 – 2020     INL, Braga, Portugal / **Marie Curie Research Fellow**  
-2018 – 2018     Yonsei University, Seoul, Korea / **Research Scientist**  
-2014 – 2017     Italian Institute of Technology, Genoa, Italy / **Researcher**  
-2013 – 2014     ENEA Casaccia Research Centre, Rome, Italy / **Research Fellow**  
-2012 – 2016     QUT, Brisbane, Australia / **Visiting Researcher**  
-2011 – 2012     QUT, Brisbane, Australia / **Postdoctoral Research Fellow**  
-2010 – 2011     QUT, Brisbane, Australia / **Sessional Academic**  
-2010 – 2011     QUT, Brisbane, Australia / **Research Assistant**
+2024 – pres.    INL / **Tenured Research Scientist – Principal Investigator**  
+2020 – 2024     INL / **Staff Researcher**  
+2018 – 2020     INL / **Marie Curie Research Fellow**  
+2018 – 2018     Yonsei University / **Research Scientist**  
+2014 – 2017     IIT / **Researcher**  
+2013 – 2014     ENEA / **Research Fellow**  
+2012 – 2016     QUT / **Visiting Researcher**  
+2011 – 2012     QUT / **Postdoctoral Research Fellow**  
+2010 – 2011     QUT / **Sessional Academic**  
+2010 – 2011     QUT / **Research Assistant**
 
 
 ---
