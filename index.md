@@ -10,7 +10,7 @@ title: Andrea Capasso
 <h1 style="margin-bottom:10px;">Andrea Capasso</h1>
 
 <p style="font-size:18px; margin:0;">
-Research Scientist PI<br>
+Research Scientist - Principal Investigator <br>
 International Iberian Nanotechnology Laboratory (INL)
 </p>
 
