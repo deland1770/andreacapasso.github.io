@@ -36,16 +36,16 @@ Graphene and MXene membranes, ion transport, nanofluidics, surface-charge engine
 
 ## Professional Experience
 
-2024 – present   INL – International Iberian Nanotechnology Laboratory, Braga, Portugal / Tenured Research Scientist – Principal Investigator  
-2020 – 2024      INL – International Iberian Nanotechnology Laboratory, Braga, Portugal / Staff Researcher  
-2018 – 2020      INL – International Iberian Nanotechnology Laboratory, Braga, Portugal / Marie Curie Research Fellow  
-2018             Yonsei University, Seoul, Korea / Research Scientist  
-2014 – 2017      Italian Institute of Technology, Genoa, Italy / Researcher  
-2013 – 2014      ENEA Casaccia Research Centre, Rome, Italy / Research Fellow  
-2012 – 2016      Queensland University of Technology, Brisbane, Australia / Visiting Researcher  
-2011 – 2012      Queensland University of Technology, Brisbane, Australia / Postdoctoral Research Fellow  
-2010 – 2011      Queensland University of Technology, Brisbane, Australia / Sessional Academic  
-2010 – 2011      Queensland University of Technology, Brisbane, Australia / Research Assistant
+2024 – pres. Tenured Research Scientist – Principal Investigator, INL, Braga, Portugal
+2020 – 2024 Staff Researcher, INL, Braga, Portugal
+2018 – 2020 Marie Curie Research Fellow, INL, Braga, Portugal
+2018 - 2018 Research Scientist, Yonsei University, Seoul, Korea
+2014 – 2017 Researcher, Italian Institute of Technology, Genoa, Italy
+2013 – 2014 Research Fellow, ENEA Casaccia Research Centre, Rome, Italy
+2012 – 2016 Visiting Researcher, Queensland University of Technology, Brisbane, Australia
+2011 – 2012 Postdoctoral Research Fellow, Queensland University of Technology, Brisbane, Australia
+2010 – 2011 Sessional Academic, Queensland University of Technology, Brisbane, Australia
+2010 – 2011 Research Assistant, Queensland University of Technology, Brisbane, Australia
 
 ---
 
