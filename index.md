@@ -48,7 +48,6 @@ Graphene and MXene membranes, ion transport, nanofluidics, surface-charge engine
 2010 – 2011     QUT / **Sessional Academic**  
 2010 – 2011     QUT / **Research Assistant**
 
-
 ---
 
 ## Selected Publications
