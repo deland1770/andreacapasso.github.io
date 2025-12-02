@@ -35,8 +35,6 @@ Institution / Years
 **MSc**, Physics or Materials Science  
 Institution / Years  
 
-(Add or adjust details.)
-
 ---
 
 ## Professional Experience
@@ -45,8 +43,6 @@ Institution / Years
 2021 – 2024 • Researcher / Senior Scientist, INL  
 2018 – 2021 • Postdoctoral Researcher (specify)  
 2014 – 2018 • Previous positions (optional)
-
-(Adapt this to your timeline.)
 
 ---
 
