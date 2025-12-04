@@ -4,38 +4,64 @@ title: News
 ---
 
 <h1 style="text-align:center; margin-top:40px;">News</h1>
-<hr>
+<hr style="margin-bottom:40px;">
 
 <div style="max-width:900px; margin:0 auto;">
 
-{% for post in site.posts %}
-  <div style="display:flex; align-items:flex-start; margin-bottom:40px; border-bottom:1px solid #ddd; padding-bottom:20px;">
+<!-- ===========================
+     NEWS ITEM TEMPLATE
+     Copy/paste this block to add more news
+=========================== -->
 
-    <div style="flex:1; padding-right:20px;">
-      <h2 style="margin:0 0 10px 0;">
-        <a href="{{ post.url | relative_url }}" style="text-decoration:none; color:#000;">
-          {{ post.title }}
-        </a>
-      </h2>
+<!-- NEWS BLOCK START -->
+<div style="display:flex; align-items:flex-start; margin-bottom:40px; border-bottom:1px solid #ddd; padding-bottom:20px;">
 
-      <p style="margin:0 0 10px 0; color:#444;">
-        {{ post.excerpt | strip_html | truncate: 300 }}
-      </p>
+  <div style="flex:1; padding-right:20px;">
+    <h2 style="margin:0 0 10px 0;">News Title Goes Here</h2>
 
-      <p style="font-size:14px; color:#777; margin:0;">
-        Andrea Capasso &nbsp;|&nbsp;
-        {{ post.date | date: "%B %d, %Y" }}
-      </p>
-    </div>
+    <p style="margin:0 0 10px 0; color:#444;">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae
+      lacus vel justo ultricies facilisis. (Write your news text here.)
+    </p>
 
-    {% if post.image %}
-    <div style="width:150px; height:150px; overflow:hidden; flex-shrink:0;">
-      <img src="{{ post.image }}" alt="thumbnail"
-           style="width:100%; height:100%; object-fit:cover; border-radius:4px;">
-    </div>
-    {% endif %}
-
+    <p style="font-size:14px; color:#777; margin:0;">
+      Andrea Capasso — January 14, 2025
+    </p>
   </div>
-{% endfor %}
+
+  <!-- OPTIONAL IMAGE -->
+  <div style="width:150px; height:150px; overflow:hidden; flex-shrink:0;">
+    <img src="/assets/news/example.jpg"
+         style="width:100%; height:100%; object-fit:cover; border-radius:4px;">
+  </div>
+
+</div>
+<!-- NEWS BLOCK END -->
+
+
+<!-- ===========================
+     OLDER NEWS (ANOTHER EXAMPLE)
+=========================== -->
+<div style="display:flex; align-items:flex-start; margin-bottom:40px; border-bottom:1px solid #ddd; padding-bottom:20px;">
+
+  <div style="flex:1; padding-right:20px;">
+    <h2 style="margin:0 0 10px 0;">Another News Item</h2>
+
+    <p style="margin:0 0 10px 0; color:#444;">
+      Older news item — you can set any date you want.
+    </p>
+
+    <p style="font-size:14px; color:#777; margin:0;">
+      Andrea Capasso — March 2, 2019
+    </p>
+  </div>
+
+  <!-- OPTIONAL IMAGE (if no image, delete this <div>) -->
+  <div style="width:150px; height:150px; overflow:hidden; flex-shrink:0;">
+    <img src="/assets/news/another.jpg"
+         style="width:100%; height:100%; object-fit:cover; border-radius:4px;">
+  </div>
+
+</div>
 
 </div>
