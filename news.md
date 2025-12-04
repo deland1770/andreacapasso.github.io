@@ -8,11 +8,6 @@ title: News
 
 <div style="max-width:900px; margin:0 auto;">
 
-<!-- ===========================
-     NEWS ITEM TEMPLATE
-     Copy/paste this block to add more news
-=========================== -->
-
 <!-- NEWS BLOCK START -->
 <div style="display:flex; align-items:flex-start; margin-bottom:40px; border-bottom:1px solid #ddd; padding-bottom:20px;">
 
@@ -29,7 +24,6 @@ title: News
     </p>
   </div>
 
-  <!-- OPTIONAL IMAGE -->
   <div style="width:150px; height:150px; overflow:hidden; flex-shrink:0;">
     <img src="/assets/news/example.jpg"
          style="width:100%; height:100%; object-fit:cover; border-radius:4px;">
@@ -39,9 +33,7 @@ title: News
 <!-- NEWS BLOCK END -->
 
 
-<!-- ===========================
-     OLDER NEWS (ANOTHER EXAMPLE)
-=========================== -->
+<!-- NEWS BLOCK START -->
 <div style="display:flex; align-items:flex-start; margin-bottom:40px; border-bottom:1px solid #ddd; padding-bottom:20px;">
 
   <div style="flex:1; padding-right:20px;">
@@ -56,12 +48,12 @@ title: News
     </p>
   </div>
 
-  <!-- OPTIONAL IMAGE (if no image, delete this <div>) -->
   <div style="width:150px; height:150px; overflow:hidden; flex-shrink:0;">
     <img src="/assets/news/another.jpg"
          style="width:100%; height:100%; object-fit:cover; border-radius:4px;">
   </div>
 
 </div>
+<!-- NEWS BLOCK END -->
 
 </div>
