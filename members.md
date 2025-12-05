@@ -14,7 +14,7 @@ permalink: /members/
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="/assets/images/member1.jpg" alt="Membro 1" style="width: 150px; border-radius: 50%;">
     <h3>Sushmitha Veeralingam</h3>
-    <p>IDK</p>
+    <p>Application & Systems Integration Engineer</p>
     <p>2D Materials Fabrication</p>
     <p>Email: <a href="mailto:member1@dominio.com">member1@dominio.com</a></p>
   </div>
@@ -23,7 +23,7 @@ permalink: /members/
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="/assets/images/member2.jpg" alt="Membro 2" style="width: 150px; border-radius: 50%;">
     <h3>Shusmitha Kyatam</h3>
-    <p>IDK</p>
+    <p>Application & Systems Integration Engineer</p>
     <p>2D Materials</p>
     <p>Email: <a href="mailto:member2@dominio.com">member2@dominio.com</a></p>
   </div>
@@ -56,8 +56,8 @@ permalink: /members/
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="/assets/images/member3.jpg" alt="Membro 3" style="width: 150px; border-radius: 50%;">
     <h3>Pedro Silva</h3>
-    <p>MSc Student</p>
-    <p>2 D Materials</p>
+    <p>Master Course</p>
+    <p>2D Materials</p>
     <p>Email: <a href="mailto:member3@dominio.com">member3@dominio.com</a></p>
   </div>
 
@@ -65,7 +65,7 @@ permalink: /members/
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="/assets/images/member3.jpg" alt="Membro 3" style="width: 150px; border-radius: 50%;">
     <h3>Gabriel Barbosa</h3>
-    <p>MSc Student</p>
+    <p>Master Course</p>
     <p>2D Materials and devices</p>
     <p>Email: <a href="mailto:member3@dominio.com">member3@dominio.com</a></p>
   </div>
