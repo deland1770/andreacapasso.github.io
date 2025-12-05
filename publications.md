@@ -6,9 +6,7 @@ title: Publications
 <h1 style="text-align:center; margin-top:40px;">Publications</h1>
 <hr>
 
-# Publicações (Publications)
-
-## Em Análise e em Progresso (Under review & in progress)
+## Under review & in progress
 
 1. **Título da Publicação em Progresso**
     *Autores:* Nome Sobrenome, Outro Nome, Gwan-Hyoung Lee
