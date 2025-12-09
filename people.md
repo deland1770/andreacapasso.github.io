@@ -38,8 +38,8 @@ title: People
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <!-- Membro 1 -->
-  <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="images/SV.jpg" alt="Membro 1" style="width: 150px; border-radius: 50%;">
+  <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 50%; padding: 10px; text-align: center;">
+    <img src="images/SV.jpg" alt="Membro 1" style="border-radius: 50%;">
     <h4>Sushmitha Veeralingam</h4>
     <p>Application & Systems Integration Engineer</p>
     <p>2D Materials Fabrication</p>
@@ -86,7 +86,7 @@ title: People
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-   <img src="images/gabriel_barbosa.jpeg" alt="Gabriel Barbosa" style="width: 150px; border-radius: 50%;">
+   <img src="images/gabriel_barbosa.jpeg" alt="Gabriel Barbosa" style="border-radius: 50%;">
     <h4>Gabriel Barbosa</h4>
     <p>Master Course</p>
     <p>2D Materials and Devices</p>
