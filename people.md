@@ -70,7 +70,7 @@ title: People
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="images/Beatriz.jpg" alt="Beatriz Silva" style="width: 150px; border-radius: 50%;">
+    <img src="images/Beatriz.png" alt="Beatriz Silva" style="width: 150px; border-radius: 50%;">
     <h4>Beatriz Silva</h4>
     <p>Master Course</p>
     <p>2D Materials</p>
@@ -117,7 +117,7 @@ title: People
   </div>
 
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="images/Tiago.jpg" alt="Alumni 3" style="width: 150px; border-radius: 50%;">
+    <img src="images/Tiago.png" alt="Alumni 3" style="width: 150px; border-radius: 50%;">
     <h4>Tiago Abreu</h4>
     <p>Master Course</p>
     <p>2D Materials</p>
