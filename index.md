@@ -3,7 +3,6 @@ layout: default
 title: Andrea Capasso
 ---
 
-[People](people.html) | [Home](index.html)
 
 <div style="text-align:center; margin-top:20px;">
 
