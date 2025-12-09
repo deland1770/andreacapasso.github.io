@@ -46,7 +46,7 @@ title: People
 
   <!-- Membro 2 -->
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="/assets/images/member2.jpg" alt="Membro 2" style="width: 150px; border-radius: 50%;">
+    <img src="images/SK.jpeg" alt="Membro 2" style="width: 150px; border-radius: 50%;">
     <h4>Shusmitha Kyatam</h4>
     <p>Application & Systems Integration Engineer</p>
     <p>2D Materials</p>
