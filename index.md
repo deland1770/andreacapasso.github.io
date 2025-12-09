@@ -3,7 +3,9 @@ layout: default
 title: Andrea Capasso
 ---
 
-
+- [People](people.md)
+- [Publications](publications.md)
+  
 <div style="text-align:center; margin-top:20px;">
 
 <img src="your-photo.jpg" alt="Andrea Capasso" style="width:200px; border-radius:50%; margin-bottom:20px;">
