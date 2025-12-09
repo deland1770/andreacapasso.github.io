@@ -10,7 +10,7 @@ title: People
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px;">
   <div style="flex-shrink: 0;">
-    <img src="./images/your-photo.jpg" alt="Foto do Investigador" style="width: 200px; border-radius: 10px;">
+    <img src="/images/your-photo.jpg" alt="Foto do Investigador" style="width: 200px; border-radius: 10px;">
   </div>
   <div>
     <h3>Andrea Capasso</h3>
