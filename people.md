@@ -43,7 +43,7 @@ title: People
 <hr>
 <br>
 
-<h1 style="text-align: center;">Members</h2>
+<h2 style="text-align: center;">Members</h2>
 
 <h3>Hired</h3>
 
@@ -114,7 +114,7 @@ title: People
 <hr>
 <br>
 
-<h1 style="text-align: center;">Alumni</h2>
+<h2 style="text-align: center;">Alumni</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
