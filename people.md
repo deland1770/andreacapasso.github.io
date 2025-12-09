@@ -6,7 +6,7 @@ title: People
 <h1 style="text-align:center; margin-top:40px;">People</h1>
 <hr>
 
-<h2 style="text-align: center; color: #555;">Primary Investigator</h2>
+<h2 style="text-align: center;">Primary Investigator</h2>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px;">
   <div style="flex-shrink: 0;">
