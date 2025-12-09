@@ -8,19 +8,17 @@ title: People
 
 <h2 style="text-align: center;">Primary Investigator</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px;">
-  <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="images/your-photo.jpg" alt="Andrea Capasso" style="width:200px; border-radius:50%; margin-bottom:20px;">
-  </div>
-  <div>
-    <h3>Andrea Capasso</h3>
-    <h4>Professor / more</h4>
-    <p>Brief biography</p>
-    <h4>Contacts</h4>
-    <ul>
-      <li>Email: <a href="mailto:exemplo@dominio.com">exemplo@dominio.com</a></li>
-    </ul>
-  </div>
+<div style="text-align:center; margin-top:20px;">
+  <img src="images/your-photo.jpg" alt="Andrea Capasso" style="width:200px; border-radius:50%; margin-bottom:20px;">
+  
+  <h3>Andrea Capasso</h3>
+  <h4>Professor / more</h4>
+  <p>Brief biography</p>
+
+  <h4>Contacts</h4>
+  <ul style="list-style:none; padding:0;">
+    <li>Email: <a href="mailto:exemplo@dominio.com">exemplo@dominio.com</a></li>
+  </ul>
 </div>
 
 <h3>Selected Publications</h3>
