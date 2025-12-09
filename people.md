@@ -86,7 +86,7 @@ title: People
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-   <img src="images/gabriel_barbosa.jpeg" alt="Gabriel Barbosa" style="border-radius: 50%;">
+   <img src="images/gabriel_barbosa.jpeg" alt="Gabriel Barbosa" style="width: 150px; border-radius: 50%;">
     <h4>Gabriel Barbosa</h4>
     <p>Master Course</p>
     <p>2D Materials and Devices</p>
