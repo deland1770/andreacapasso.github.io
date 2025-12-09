@@ -62,7 +62,7 @@ title: People
 
   <!-- Graduate members -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="/assets/images/member1.jpg" alt="Vicente Lopes" style="width: 150px; border-radius: 50%;">
+    <img src="images/Vicente.jpgg" alt="Vicente Lopes" style="width: 150px; border-radius: 50%;">
     <h4>Vicente Lopes</h4>
     <p>Ph.D. Course</p>
     <p>2D Materials and Devices</p>
@@ -70,7 +70,7 @@ title: People
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="/assets/images/member2.jpg" alt="Beatriz Silva" style="width: 150px; border-radius: 50%;">
+    <img src="images/Pedro.jpg" alt="Beatriz Silva" style="width: 150px; border-radius: 50%;">
     <h4>Beatriz Silva</h4>
     <p>Master Course</p>
     <p>2D Materials</p>
