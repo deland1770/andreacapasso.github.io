@@ -9,29 +9,19 @@ title: People
 <h2 style="text-align: center; color: #555;">Primary Investigator</h2>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px;">
-
-  
   <div style="flex-shrink: 0;">
     <img src="/assets/images/investigator.jpg" alt="Foto do Investigador" style="width: 200px; border-radius: 10px;">
   </div>
-
-  
   <div>
     <h3>Andrea Capasso</h3>
-    <h4>Professor / more </h4>
-
-   <p> Brief biografy
-    </p>
-
-   <h4>Contacts</h4>
+    <h4>Professor / more</h4>
+    <p>Brief biography</p>
+    <h4>Contacts</h4>
     <ul>
       <li>Email: <a href="mailto:exemplo@dominio.com">exemplo@dominio.com</a></li>
     </ul>
   </div>
-
 </div>
-
-<br>
 
 <h3>Selected Publications</h3>
 <ul>
@@ -41,14 +31,12 @@ title: People
 </ul>
 
 <hr>
-<br>
 
 <h2 style="text-align: center;">Members</h2>
 
 <h3>Hired</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
   <!-- Membro 1 -->
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="/assets/images/member1.jpg" alt="Membro 1" style="width: 150px; border-radius: 50%;">
@@ -66,14 +54,12 @@ title: People
     <p>2D Materials</p>
     <p>Email: <a href="mailto:member2@dominio.com">member2@dominio.com</a></p>
   </div>
-
-<br>
+</div>
 
 <h3>Graduate</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <!-- Membro 1 -->
+  <!-- Graduate members -->
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="/assets/images/member1.jpg" alt="Membro 1" style="width: 150px; border-radius: 50%;">
     <h4>Vicente Lopes</h4>
@@ -82,7 +68,6 @@ title: People
     <p>Email: <a href="mailto:member1@dominio.com">member1@dominio.com</a></p>
   </div>
 
-  <!-- Membro 2 -->
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="/assets/images/member2.jpg" alt="Membro 2" style="width: 150px; border-radius: 50%;">
     <h4>Beatriz Silva</h4>
@@ -91,7 +76,6 @@ title: People
     <p>Email: <a href="mailto:member2@dominio.com">member2@dominio.com</a></p>
   </div>
 
-  <!-- Membro 3 -->
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="/assets/images/member3.jpg" alt="Membro 3" style="width: 150px; border-radius: 50%;">
     <h4>Pedro Silva</h4>
@@ -100,50 +84,41 @@ title: People
     <p>Email: <a href="mailto:member3@dominio.com">member3@dominio.com</a></p>
   </div>
 
-  <!-- Membro 4 -->
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="/assets/images/member3.jpg" alt="Membro 3" style="width: 150px; border-radius: 50%;">
+    <img src="/assets/images/member3.jpg" alt="Membro 4" style="width: 150px; border-radius: 50%;">
     <h4>Gabriel Barbosa</h4>
     <p>Master Course</p>
-    <p>2D Materials and devices</p>
+    <p>2D Materials and Devices</p>
     <p>Email: <a href="mailto:member3@dominio.com">member3@dominio.com</a></p>
   </div>
-
 </div>
 
 <hr>
-<br>
 
 <h2 style="text-align: center;">Alumni</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="/assets/images/member3.jpg" alt="Membro 3" style="width: 150px; border-radius: 50%;">
+    <img src="/assets/images/member3.jpg" alt="Alumni 1" style="width: 150px; border-radius: 50%;">
     <h4>Siva S. Nemala</h4>
     <p>Application & Systems Integration Engineer</p>
     <p>2D Materials</p>
     <p>Email: <a href="mailto:member3@dominio.com">member3@dominio.com</a></p>
   </div>
 
-  
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="/assets/images/member1.jpg" alt="Membro 1" style="width: 150px; border-radius: 50%;">
+    <img src="/assets/images/member1.jpg" alt="Alumni 2" style="width: 150px; border-radius: 50%;">
     <h4>Guilherme Araújo</h4>
     <p>Master Course</p>
-    <p>2D Materials growth</p>
+    <p>2D Materials Growth</p>
     <p>Email: <a href="mailto:member1@dominio.com">member1@dominio.com</a></p>
   </div>
 
-  
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="/assets/images/member2.jpg" alt="Membro 2" style="width: 150px; border-radius: 50%;">
+    <img src="/assets/images/member2.jpg" alt="Alumni 3" style="width: 150px; border-radius: 50%;">
     <h4>Tiago Abreu</h4>
     <p>Master Course</p>
-    <p>2D materials</p>
+    <p>2D Materials</p>
     <p>Email: <a href="mailto:member2@dominio.com">member2@dominio.com</a></p>
   </div>
-
-  
-
 </div>
