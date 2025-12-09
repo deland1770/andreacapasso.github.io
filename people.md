@@ -95,7 +95,7 @@ title: People
 <br>
 <hr>
 
-<h2 style="text-align: center;">Alumni</h2>
+<h2 style="text-align: center;">Former members</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
