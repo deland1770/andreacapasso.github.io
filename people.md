@@ -38,8 +38,8 @@ title: People
 
   <!-- Member 1 -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <div style="width:150px; height:150px; margin: 0 auto; border-radius: 50%; overflow: hidden;">
-      <img src="images/SV.jpg" alt="Membro 1" style="width:100%; height:100%; object-fit: cover;">
+    <div style="width:150px; height:150px; margin: 0 auto; border-radius: 50%; overflow: hidden; background: white;">
+      <img src="images/SV.jpg" style="width:100%; height:100%; object-fit: contain;">
     </div>
     <h4>Sushmitha Veeralingam</h4>
     <p>Application & Systems Integration Engineer</p>
@@ -49,14 +49,17 @@ title: People
 
   <!-- Member 2 -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <div style="width:150px; height:150px; margin: 0 auto; border-radius: 50%; overflow: hidden;">
-      <img src="images/SK.jpeg" alt="Membro 2" style="width:100%; height:100%; object-fit: cover;">
+    <div style="width:150px; height:150px; margin: 0 auto; border-radius: 50%; overflow: hidden; background: white;">
+      <img src="images/SK.jpeg" style="width:100%; height:100%; object-fit: contain;">
     </div>
     <h4>Shusmitha Kyatam</h4>
     <p>Application & Systems Integration Engineer</p>
     <p>2D Materials</p>
     <p>Email: <a href="mailto:shusmitha.kyatam@inl.int">shusmitha.kyatam@inl.int</a></p>
   </div>
+
+</div>
+
 
 </div>
 
