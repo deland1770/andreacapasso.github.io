@@ -34,7 +34,7 @@ title: People
 
 <h3>Hired</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px;">
   <!-- Membro 1 -->
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="images/SV.jpg" alt="Membro 1" style="width: 150px; border-radius: 50%;">
