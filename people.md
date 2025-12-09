@@ -93,6 +93,7 @@ title: People
 
 </div>
 
+<br>
 <hr>
 
 <h2 style="text-align: center;">Alumni</h2>
