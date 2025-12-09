@@ -41,7 +41,7 @@ title: People
     <h4>Sushmitha Veeralingam</h4>
     <p>Application & Systems Integration Engineer</p>
     <p>2D Materials Fabrication</p>
-    <p>Email:sushmitha.veeralingam@inl.int</a></p>
+    <p>Email: sushmitha.veeralingam@inl.int</p>
   </div>
 
   <!-- Membro 2 -->
@@ -50,7 +50,7 @@ title: People
     <h4>Shusmitha Kyatam</h4>
     <p>Application & Systems Integration Engineer</p>
     <p>2D Materials</p>
-    <p>Email:shusmitha.kyatam@inl.int</a></p>
+    <p>Email: shusmitha.kyatam@inl.int</p>
   </div>
 </div>
 
@@ -65,7 +65,7 @@ title: People
     <h4>Vicente Lopes</h4>
     <p>Ph.D. Course</p>
     <p>2D Materials and Devices</p>
-    <p>Email:vicente.lopes@inl.int</a></p>
+    <p>Email: vicente.lopes@inl.int</p>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
@@ -80,7 +80,7 @@ title: People
     <h4>Pedro Silva</h4>
     <p>Master Course</p>
     <p>2D Materials</p>
-    <p>Email:pedro.d.silva@inl.int</a></p>
+    <p>Email: pedro.d.silva@inl.int</p>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
@@ -88,7 +88,7 @@ title: People
     <h4>Gabriel Barbosa</h4>
     <p>Master Course</p>
     <p>2D Materials and Devices</p>
-    <p>Email:gabriel.barbosa@inl.int</a></p>
+    <p>Email: gabriel.barbosa@inl.int</p>
   </div>
 
 </div>
@@ -104,7 +104,7 @@ title: People
     <h4>Siva S. Nemala</h4>
     <p>Application & Systems Integration Engineer</p>
     <p>2D Materials</p>
-    <p>Email:siva.sankar@inl.int</a></p>
+    <p>Email: siva.sankar@inl.int</p>
   </div>
 
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
@@ -112,7 +112,7 @@ title: People
     <h4>Guilherme Araújo</h4>
     <p>Master Course</p>
     <p>2D Materials Growth</p>
-    <p>Email:guilherme.araujo@inl.int</a></p>
+    <p>Email: guilherme.araujo@inl.int</p>
   </div>
 
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
