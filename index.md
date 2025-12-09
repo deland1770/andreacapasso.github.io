@@ -3,8 +3,6 @@ layout: default
 title: Andrea Capasso
 ---
 
-- [People](people.md)
-- [Publications](publications.md)
   
 <div style="text-align:center; margin-top:20px;">
 
