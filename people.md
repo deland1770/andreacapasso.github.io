@@ -72,7 +72,6 @@ title: People
     <h4>Beatriz Silva</h4>
     <p>Master Course</p>
     <p>2D Materials</p>
-    <p>Email: <a href="mailto:member2@dominio.com">member2@dominio.com</a></p>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
@@ -120,6 +119,5 @@ title: People
     <h4>Tiago Abreu</h4>
     <p>Master Course</p>
     <p>2D Materials</p>
-    <p>Email: <a href="mailto:member2@dominio.com">member2@dominio.com</a></p>
   </div>
 </div>
