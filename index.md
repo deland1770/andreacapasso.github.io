@@ -2,7 +2,6 @@
 layout: default
 title: Andrea Capasso
 ---
-
   
 <div style="text-align:center; margin-top:20px;">
 
