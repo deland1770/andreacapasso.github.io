@@ -58,9 +58,10 @@ title: People
 
 <h3>Graduate</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
   <!-- Graduate members -->
-  <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
+  <div style="flex: 0 1 220px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="/assets/images/member1.jpg" alt="Membro 1" style="width: 150px; border-radius: 50%;">
     <h4>Vicente Lopes</h4>
     <p>Ph.D. Course</p>
@@ -68,7 +69,7 @@ title: People
     <p>Email: <a href="mailto:member1@dominio.com">member1@dominio.com</a></p>
   </div>
 
-  <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
+  <div style="flex: 0 1 220px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="/assets/images/member2.jpg" alt="Membro 2" style="width: 150px; border-radius: 50%;">
     <h4>Beatriz Silva</h4>
     <p>Master Course</p>
@@ -76,7 +77,7 @@ title: People
     <p>Email: <a href="mailto:member2@dominio.com">member2@dominio.com</a></p>
   </div>
 
-  <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
+  <div style="flex: 0 1 220px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="/assets/images/member3.jpg" alt="Membro 3" style="width: 150px; border-radius: 50%;">
     <h4>Pedro Silva</h4>
     <p>Master Course</p>
@@ -84,13 +85,14 @@ title: People
     <p>Email: <a href="mailto:member3@dominio.com">member3@dominio.com</a></p>
   </div>
 
-  <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
+  <div style="flex: 0 1 220px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="/assets/images/member3.jpg" alt="Membro 4" style="width: 150px; border-radius: 50%;">
     <h4>Gabriel Barbosa</h4>
     <p>Master Course</p>
     <p>2D Materials and Devices</p>
     <p>Email: <a href="mailto:member3@dominio.com">member3@dominio.com</a></p>
   </div>
+
 </div>
 
 <hr>
