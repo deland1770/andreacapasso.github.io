@@ -6,7 +6,7 @@ title: Andrea Capasso
   
 <div style="text-align:center; margin-top:20px;">
 
-<img src="your-photo.jpg" alt="Andrea Capasso" style="width:200px; border-radius:50%; margin-bottom:20px;">
+<img src="images/your-photo.jpg" alt="Andrea Capasso" style="width:200px; border-radius:50%; margin-bottom:20px;">
 
 <h1 style="margin-bottom:10px;">Andrea Capasso</h1>
 
