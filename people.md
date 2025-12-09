@@ -9,7 +9,7 @@ title: People
 <h2 style="text-align: center;">Primary Investigator</h2>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px;">
-  <div style="flex-shrink: 0;">
+  <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
     <img src="images/your-photo.jpg" alt="Andrea Capasso" style="width:200px; border-radius:50%; margin-bottom:20px;">
   </div>
   <div>
@@ -70,7 +70,7 @@ title: People
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="aaaa.jpg" alt="Beatriz Silva" style="width: 150px; border-radius: 50%;">
+    <img src="images/Beatriz.jpg" alt="Beatriz Silva" style="width: 150px; border-radius: 50%;">
     <h4>Beatriz Silva</h4>
     <p>Master Course</p>
     <p>2D Materials</p>
@@ -101,7 +101,7 @@ title: People
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="/assets/images/member3.jpg" alt="Alumni 1" style="width: 150px; border-radius: 50%;">
+    <img src="images/Siva.jpg" alt="Alumni 1" style="width: 150px; border-radius: 50%;">
     <h4>Siva S. Nemala</h4>
     <p>Application & Systems Integration Engineer</p>
     <p>2D Materials</p>
@@ -109,7 +109,7 @@ title: People
   </div>
 
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="/assets/images/member1.jpg" alt="Alumni 2" style="width: 150px; border-radius: 50%;">
+    <img src="images/Guilherme.jpg" alt="Alumni 2" style="width: 150px; border-radius: 50%;">
     <h4>Guilherme Araújo</h4>
     <p>Master Course</p>
     <p>2D Materials Growth</p>
@@ -117,7 +117,7 @@ title: People
   </div>
 
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="/assets/images/member2.jpg" alt="Alumni 3" style="width: 150px; border-radius: 50%;">
+    <img src="images/Tiago.jpg" alt="Alumni 3" style="width: 150px; border-radius: 50%;">
     <h4>Tiago Abreu</h4>
     <p>Master Course</p>
     <p>2D Materials</p>
