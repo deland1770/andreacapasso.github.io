@@ -39,7 +39,7 @@ title: People
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <!-- Membro 1 -->
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 50%; padding: 10px; text-align: center;">
-    <img src="images/SV.jpg" alt="Membro 1" style="border-radius: 50%;">
+    <img src="images/SV.jpg" alt="Membro 1" style="width: 200px; border-radius: 50%;">
     <h4>Sushmitha Veeralingam</h4>
     <p>Application & Systems Integration Engineer</p>
     <p>2D Materials Fabrication</p>
