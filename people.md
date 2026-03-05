@@ -3,41 +3,12 @@ layout: default
 title: People
 ---
 
-<h1 style="text-align:center; margin-top:40px;">People</h1>
-<hr>
-
-<h2 style="text-align: center;">Primary Investigator</h2>
-
-<div style="text-align:center; margin-top:20px;">
-  <img src="images/your-photo.jpg" alt="Andrea Capasso" style="width:200px; border-radius:50%; margin-bottom:20px;">
-  
-  <h3>Andrea Capasso</h3>
-  <h4>Professor / more</h4>
-  <p>Brief biography</p>
-
-  <h4>Contacts</h4>
-  <ul style="list-style:none; padding:0;">
-    <li>Email: <a href="mailto:exemplo@dominio.com">exemplo@dominio.com</a></li>
-  </ul>
-</div>
-
-<h3>Selected Publications</h3>
-<ul>
-  <li><a href="#">Título da Publicação 1</a></li>
-  <li><a href="#">Título da Publicação 2</a></li>
-  <li><a href="#">Título da Publicação 3</a></li>
-</ul>
-
-<hr>
-
-<h2 style="text-align: center;">Members</h2>
-
-<h3>Hired</h3>
+<h1 style="text-align: center;">Members</h1>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px;">
   <!-- Membro 1 -->
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="images/SV.jpg" alt="Membro 1" style="width: 150px; border-radius: 50%;">
+    <img src="images/SV.jpg" alt="Membro 1" style="width: 150px;">
     <h4>Sushmitha Veeralingam</h4>
     <p>Application & Systems Integration Engineer</p>
     <p>2D Materials Fabrication</p>
@@ -46,7 +17,7 @@ title: People
 
   <!-- Membro 2 -->
   <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
-    <img src="images/SK.jpeg" alt="Membro 2" style="width: 200px; border-radius: 50%;">
+    <img src="images/SK.jpeg" alt="Membro 2" style="width: 200px;">
     <h4>Shusmitha Kyatam</h4>
     <p>Application & Systems Integration Engineer</p>
     <p>2D Materials</p>
@@ -54,8 +25,15 @@ title: People
   </div>
 </div>
 
+  <div style="flex: 1 1 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; text-align: center;">
+    <img src="images/SK.jpeg" alt="Membro 2" style="width: 200px; border-radius: 50%;">
+    <h4>Lisa Buttò</h4>
+    <p>Application & Systems Integration Engineer</p>
+    <p>2D Materials</p>
+    <p>Email: shusmitha.kyatam@inl.int</p>
+  </div>
+</div>
 
-<h3>Graduate</h3>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px;">
 
