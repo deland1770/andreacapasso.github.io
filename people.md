@@ -3,7 +3,7 @@ layout: default
 title: People
 ---
 
-<h1 style="text-align: center;">Members</h1>
+<h1 style="text-align: center;">People</h1>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px;">
   <!-- Membro 1 -->
