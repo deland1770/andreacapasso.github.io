@@ -24,7 +24,7 @@ title: People
   width: 180px;
   height: 180px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 100%;
 }
 </style>
 
