@@ -3,7 +3,7 @@ layout: default
 title: People
 ---
 
-<h1 style="text-align: center;">People</h1>
+<h1 style="text-align: center;margin-top:40px;">People</h1>
 
 <hr style="margin-bottom:40px;">
 
