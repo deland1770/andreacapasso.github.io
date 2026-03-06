@@ -8,9 +8,10 @@ title: People
 <style>
 .people-grid {
   display: grid;
-  grid-template-columns: repeat(4, 220px);
-  gap: 30px;
+  grid-template-columns: repeat(auto-fill, 220px);
+  gap: 40px;
   justify-content: center;
+  margin-top: 30px;
 }
 
 .person-card {
@@ -19,13 +20,13 @@ title: People
 
 .person-card img {
   width: 180px;
-  height: 280px;
+  height: 180px;
   object-fit: cover;
+  border-radius: 50%;
   display: block;
-  margin: 0 auto;
-} 
+  margin: 0 auto 10px auto;
+}
 </style>
-
 <h2 style="text-align: center;">Post-Doc</h2>
 
 <div class="people-grid">
