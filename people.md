@@ -8,7 +8,7 @@ title: People
 <style>
 .people-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 25px;
   justify-items: center;
 }
@@ -40,14 +40,14 @@ title: People
 </div>
 
 <div class="person-card">
-<img src="images/SK.jpeg" alt="Person 2">
+<img src="images/SK.jpg" alt="Person 2">
 <h4>Sushmitha Veeralingam</h4>
 <p>Application & Systems Integration Engineer</p>
 <p>2D Materials Fabrication</p>
 </div>
 
 <div class="person-card">
-<img src="images/SK.jpeg" alt="Person 3">
+<img src="images/Lisa.jpg" alt="Person 3">
 <h4>Lisa Buttò</h4>
 <p>Application & Systems Integration Engineer</p>
 <p>2D Materials Fabrication</p>
