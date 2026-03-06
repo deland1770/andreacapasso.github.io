@@ -10,6 +10,12 @@ title: People
 <div style="max-width:900px; margin:0 auto;">
 
 <style>
+.small-text {
+  font-size: 14px; /* adjust as needed */
+}
+</style>
+
+<style>
 /* Common styles for all person cards */
 .person-card {
   text-align: center;
@@ -64,22 +70,22 @@ title: People
   <div class="person-card">
     <img src="images/SV.jpg" alt="Person 1">
     <h4>Sushmitha Veeralingam</h4>
-    <p>Application & Systems Integration Engineer</p>
-    <p>2D Materials Fabrication</p>
+    <p class="small-text">Application & Systems Integration Engineer</p>
+    <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
     <img src="images/SK.jpg" alt="Person 2">
     <h4>Sushmitha Veeralingam</h4>
-    <p>Application & Systems Integration Engineer</p>
-    <p>2D Materials Fabrication</p>
+    <p class="small-text">Application & Systems Integration Engineer</p>
+    <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
     <img src="images/Lisa.jpg" alt="Person 3">
     <h4>Lisa Buttò</h4>
-    <p>Application & Systems Integration Engineer</p>
-    <p>2D Materials Fabrication</p>
+    <p class="small-text">Research Assistant</p>
+    <p class="small-text">2D Materials Fabrication</p>
   </div>
 </div>
 
@@ -90,22 +96,22 @@ title: People
   <div class="person-card">
     <img src="images/Vicente.jpg" alt="Person 4">
     <h4>Vicente Lopes</h4>
-    <p>Ph.D. Course</p>
-    <p>2D Materials Fabrication</p>
+    <p class="small-text">Ph.D. Course</p>
+    <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
     <img src="images/Pedro.jpg" alt="Person 5">
     <h4>Pedro Silva</h4>
-    <p>Masters Course</p>
-    <p>2D Materials Fabrication</p>
+    <p class="small-text">Masters Course</p>
+    <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
     <img src="images/gabriel_barbosa.jpeg" alt="Person 6">
     <h4>Gabriel Barbosa</h4>
-    <p>Masters Course</p>
-    <p>2D Materials Fabrication</p>
+    <p class="small-text">Masters Course</p>
+    <p class="small-text">2D Materials Fabrication</p>
   </div>
 </div>
 <br>
@@ -115,28 +121,28 @@ title: People
   <div class="person-card">
     <img src="images/Siva.jpg" alt="Person 7">
     <h4>Siva S. Nemala</h4>
-    <p>Application & Systems Integration Engineer</p>
-    <p>2D Materials Fabrication</p>
+    <p class="small-text">Application & Systems Integration Engineer</p>
+    <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
     <img src="images/Guilherme.jpg" alt="Person 8">
     <h4>Guilherme Araújo</h4>
-    <p>Masters Course</p>
-    <p>2D Materials Fabrication</p>
+    <p class="small-text">Masters Course</p>
+    <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
     <img src="images/Beatriz.png" alt="Person 9">
     <h4>Beatriz Silva</h4>
-    <p>Masters Course</p>
-    <p>2D Materials Fabrication</p>
+    <p class="small-text">Masters Course</p>
+    <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
     <img src="images/Tiago.png" alt="Person 10">
     <h4>Tiago Abreu</h4>
-    <p>Masters Course</p>
-    <p>2D Materials Fabrication</p>
+    <p class="small-text">Masters Course</p>
+    <p class="small-text">2D Materials Fabrication</p>
   </div>
 </div>
