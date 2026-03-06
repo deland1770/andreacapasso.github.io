@@ -59,7 +59,7 @@ title: People
 </style>
 
 <h2 style="text-align: center;">Post-Doc</h2>
-
+<br>
 <div class="people-grid-3">
   <div class="person-card">
     <img src="images/SV.jpg" alt="Person 1">
@@ -83,8 +83,9 @@ title: People
   </div>
 </div>
 
+<br>
 <h2 style="text-align: center;">Students</h2>
-
+<br>
 <div class="people-grid-3">
   <div class="person-card">
     <img src="images/Vicente.jpg" alt="Person 4">
@@ -107,9 +108,9 @@ title: People
     <p>2D Materials Fabrication</p>
   </div>
 </div>
-
+<br>
 <h2 style="text-align: center;">Former Members</h2>
-
+<br>
 <div class="people-grid-4">
   <div class="person-card">
     <img src="images/Siva.jpg" alt="Person 7">
