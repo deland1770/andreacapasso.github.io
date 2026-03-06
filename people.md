@@ -7,16 +7,13 @@ title: People
 
 <style>
 .people-grid {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 200px));
+  gap: 40px;
   justify-content: center;
-  gap: 20px;
-  max-width: 1200px;
-  margin: 0 auto;
 }
 
 .person-card {
-  width: 200px;
   text-align: center;
 }
 
