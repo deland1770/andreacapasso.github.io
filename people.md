@@ -8,7 +8,7 @@ title: People
 <style>
   .people-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 25px;
   justify-items: center;
   }
@@ -19,7 +19,7 @@ title: People
 
   .person-card img {
   width: 180px;
-  height: 180px;
+  height: 280px;
   object-fit: cover;
   }
 </style>
