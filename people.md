@@ -64,7 +64,7 @@ title: People
 }
 </style>
 
-<h2 style="text-align: center;"><b>Post-Doc</b></h2>
+<h2 style="text-align: center;">Post-Doc</h2>
 <br>
 <div class="people-grid-3">
   <div class="person-card">
@@ -90,7 +90,7 @@ title: People
 </div>
 
 <br>
-<h2 style="text-align: center;"><b>Students</b></h2>
+<h2 style="text-align: center;">Students</h2>
 <br>
 <div class="people-grid-3">
   <div class="person-card">
@@ -115,7 +115,7 @@ title: People
   </div>
 </div>
 <br>
-<h2 style="text-align: center;"><b>Former Members</b></h2>
+<h2 style="text-align: center;">Former Members</h2>
 <br>
 <div class="people-grid-4">
   <div class="person-card">
