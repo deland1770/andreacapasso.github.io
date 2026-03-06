@@ -7,14 +7,16 @@ title: People
 
 <style>
 .people-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, 220px);
-  gap: 40px;
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
-  margin-top: 30px;
+  gap: 40px;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .person-card {
+  width: 200px;
   text-align: center;
 }
 
@@ -27,6 +29,7 @@ title: People
   margin: 0 auto 10px auto;
 }
 </style>
+
 <h2 style="text-align: center;">Post-Doc</h2>
 
 <div class="people-grid">
