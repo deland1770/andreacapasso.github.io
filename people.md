@@ -6,21 +6,24 @@ title: People
 <h1 style="text-align: center;">People</h1>
 
 <style>
-  .people-grid {
+.people-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  justify-items: center;
-  }
+  grid-template-columns: repeat(4, 220px);
+  gap: 30px;
+  justify-content: center;
+}
 
-  .person-card {
+.person-card {
   text-align: center;
-  }
+}
 
-  .person-card img {
+.person-card img {
   width: 180px;
   height: 280px;
   object-fit: cover;
-  }
+  display: block;
+  margin: 0 auto;
+} 
 </style>
 
 <h2 style="text-align: center;">Post-Doc</h2>
