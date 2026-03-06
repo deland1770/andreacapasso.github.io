@@ -10,8 +10,8 @@ title: People
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 40px;
-  max-width: 1000px;
+  gap: 20px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
