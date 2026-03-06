@@ -5,6 +5,10 @@ title: People
 
 <h1 style="text-align: center;">People</h1>
 
+<hr style="margin-bottom:40px;">
+
+<div style="max-width:900px; margin:0 auto;">
+
 <style>
 /* Common styles for all person cards */
 .person-card {
