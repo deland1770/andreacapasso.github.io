@@ -68,21 +68,21 @@ title: People
 <br>
 <div class="people-grid-3">
   <div class="person-card">
-    <img src="images/SVg.jpg" alt="Person 1">
+    <img src="images/SV.jpg" alt="Person 1">
     <h4><b>Sushmitha Veeralingam</b></h4>
     <p class="small-text">Application & Systems Integration Engineer</p>
     <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
-    <img src="images/SKg.jpg" alt="Person 2">
+    <img src="images/SK.jpg" alt="Person 2">
     <h4><b>Shusmitha Kyatam</b></h4>
     <p class="small-text">Application & Systems Integration Engineer</p>
     <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
-    <img src="images/Lisag.jpg" alt="Person 3">
+    <img src="images/Lisa.jpg" alt="Person 3">
     <h4><b>Lisa Buttò</b></h4>
     <p class="small-text">Research Assistant</p>
     <p class="small-text">2D Materials Fabrication</p>
@@ -94,21 +94,21 @@ title: People
 <br>
 <div class="people-grid-3">
   <div class="person-card">
-    <img src="images/Vicenteg.jpg" alt="Person 4">
+    <img src="images/Vicente.jpg" alt="Person 4">
     <h4><b>Vicente Lopes</b></h4>
     <p class="small-text">Ph.D. Course</p>
     <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
-    <img src="images/Pedrog.jpg" alt="Person 5">
+    <img src="images/Pedro.jpg" alt="Person 5">
     <h4><b>Pedro Silva</b></h4>
     <p class="small-text">Masters Course</p>
     <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
-    <img src="images/Gabrielg.jpg" alt="Person 6">
+    <img src="images/Gabriel.jpg" alt="Person 6">
     <h4><b>Gabriel Barbosa</b></h4>
     <p class="small-text">Masters Course</p>
     <p class="small-text">2D Materials Fabrication</p>
@@ -119,21 +119,21 @@ title: People
 <br>
 <div class="people-grid-4">
   <div class="person-card">
-    <img src="images/Sivag.jpg" alt="Person 7">
+    <img src="images/Siva.jpg" alt="Person 7">
     <h4><b>Siva S. Nemala</b></h4>
     <p class="small-text">Application & Systems Integration Engineer</p>
     <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
-    <img src="images/Guilhermeg.jpg" alt="Person 8">
+    <img src="images/Guilherme.jpg" alt="Person 8">
     <h4><b>Guilherme Araújo</b></h4>
     <p class="small-text">Masters Course</p>
     <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
-    <img src="images/Beag.jpg" alt="Person 9">
+    <img src="images/Bea.jpg" alt="Person 9">
     <h4><b>Beatriz Silva</b></h4>
     <p class="small-text">Masters Course</p>
     <p class="small-text">2D Materials Fabrication</p>
