@@ -68,21 +68,21 @@ title: People
 <br>
 <div class="people-grid-3">
   <div class="person-card">
-    <img src="images/SVg.jpg" alt="Person 1" style="object-position: center 25%;">
+    <img src="images/SVg.jpg" alt="Person 1">
     <h4><b>Sushmitha Veeralingam</b></h4>
     <p class="small-text">Application & Systems Integration Engineer</p>
     <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
-    <img src="images/SKg.jpg" alt="Person 2" style="object-position: center 25%;">
+    <img src="images/SKg.jpg" alt="Person 2">
     <h4><b>Shusmitha Kyatam</b></h4>
     <p class="small-text">Application & Systems Integration Engineer</p>
     <p class="small-text">2D Materials Fabrication</p>
   </div>
 
   <div class="person-card">
-    <img src="images/Lisag.jpg" alt="Person 3" style="object-position: center 25%;">
+    <img src="images/Lisag.jpg" alt="Person 3">
     <h4><b>Lisa Buttò</b></h4>
     <p class="small-text">Research Assistant</p>
     <p class="small-text">2D Materials Fabrication</p>
