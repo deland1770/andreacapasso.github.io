@@ -6,10 +6,6 @@ title: Publications
 <h1 style="text-align:center; margin-top:40px;">Publications</h1>
 <hr>
 
-<ol class="pub-list">
-  <li>M. Trevisani, A. Robles-Fernández, ...</li>
-  <li>B. Silva, S.S. Nemala, ...</li>
-</ol>
 
 <h2>Under Review</h2>
 <p>1. M. Trevisani, A. Robles-Fernández, V. Lopes, H.T. Semini, V.E. Neubrand, M.R. Sepúlveda, P. Sánchez-Moreno, Y. Shin, D. Moon, G.H. Lee, F. Benfenati, M. Bramini, V. Castagnola, A. Capasso, “Biocompatible hydrogenated graphene interfaces promote axonal regeneration”. Small </p>
