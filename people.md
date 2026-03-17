@@ -64,7 +64,7 @@ title: People
 }
 </style>
 
-<h2 style="text-align: center;">Post-Doc</h2>
+<h2 style="text-align: center;">Researchers</h2>
 <br>
 <div class="people-grid-3">
   <div class="person-card">
