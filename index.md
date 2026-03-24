@@ -58,15 +58,13 @@ Institution / Years
 
 ## Contact
 
-Email: your-email <br>
-Google Scholar: 
+Email: <br>
 <a href="https://scholar.google.com/citations?user=lSos5ssAAAAJ&hl=pt-PT&oi=ao" target="_blank">
-  View profile
+  Google Scholar
 </a><br>
 ORCID: <br>
-INL page: 
 <a href="https://inl.int/community/andrea-capasso/" target="_blank">
-  Andrea Capasso
+  INL Page
 </a>
 
 
