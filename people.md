@@ -11,11 +11,9 @@ title: People
 
 <style>
 .small-text {
-  font-size: 14px; /* adjust as needed */
+  font-size: 14px;
 }
-</style>
 
-<style>
 /* Common styles for all person cards */
 .person-card {
   text-align: center;
@@ -30,24 +28,23 @@ title: People
   margin: 0 auto 10px auto;
 }
 
-/* Grid for 3 people per row, centered */
+/* Grid for 3 people per row */
 .people-grid-3 {
   display: grid;
   grid-template-columns: repeat(3, 200px);
   gap: 40px;
   justify-content: center;
 }
-  
 
-/* Grid for 4 people per row, centered */
+/* FIXED: flexible grid that keeps last row centered */
 .people-grid-4 {
   display: grid;
-  grid-template-columns: repeat(4, 200px);
+  grid-template-columns: repeat(auto-fit, 200px);
   gap: 40px;
   justify-content: center;
 }
 
-/* Optional: responsive adjustments for smaller screens */
+/* Responsive */
 @media (max-width: 900px) {
   .people-grid-3 {
     grid-template-columns: repeat(2, 200px);
@@ -69,24 +66,21 @@ title: People
 <br>
 <div class="people-grid-3">
   <div class="person-card">
-    <img src="images/SV.jpg" alt="Person 1">
+    <img src="images/SV.jpg">
     <h4><b>Sushmitha Veeralingam</b></h4>
     <p class="small-text">Application & Systems Integration Engineer</p>
-    <!-- <p class="small-text">2D Materials Fabrication</p> -->
   </div>
 
   <div class="person-card">
-    <img src="images/SK.jpg" alt="Person 2">
+    <img src="images/SK.jpg">
     <h4><b>Shusmitha Kyatam</b></h4>
     <p class="small-text">Application & Systems Integration Engineer</p>
-    <!-- <p class="small-text">2D Materials Fabrication</p> -->
   </div>
 
   <div class="person-card">
-    <img src="images/Lisa.jpg" alt="Person 3">
+    <img src="images/Lisa.jpg">
     <h4><b>Lisa Buttò</b></h4>
     <p class="small-text">Research Assistant</p>
-    <!-- <p class="small-text">2D Materials Fabrication</p> -->
   </div>
 </div>
 
@@ -95,71 +89,63 @@ title: People
 <br>
 <div class="people-grid-3">
   <div class="person-card">
-    <img src="images/Vicente.jpg" alt="Person 4">
+    <img src="images/Vicente.jpg">
     <h4><b>Vicente Lopes</b></h4>
     <p class="small-text">Ph.D. Course</p>
-    <!-- <p class="small-text">2D Materials Fabrication</p> -->
   </div>
 
   <div class="person-card">
-    <img src="images/Pedro.jpg" alt="Person 5">
+    <img src="images/Pedro.jpg">
     <h4><b>Pedro Silva</b></h4>
     <p class="small-text">Masters Course</p>
-    <!-- <p class="small-text">2D Materials Fabrication</p>-->
   </div>
 
   <div class="person-card">
-    <img src="images/Gabriel.jpg" alt="Person 6">
+    <img src="images/Gabriel.jpg">
     <h4><b>Gabriel Barbosa</b></h4>
     <p class="small-text">Masters Course</p>
-   <!--p class="small-text">2D Materials Fabrication</p>-->
   </div>
 </div>
+
 <br>
 <h2 style="text-align: center;">Former Members</h2>
 <br>
 <div class="people-grid-4">
   <div class="person-card">
-    <img src="images/Siva.jpg" alt="Person 7">
+    <img src="images/Siva.jpg">
     <h4><b>Siva S. Nemala</b></h4>
     <p class="small-text">Application & Systems Integration Engineer</p>
-    <!-- <p class="small-text">2D Materials Fabrication</p> -->
   </div>
 
   <div class="person-card">
-    <img src="images/Guilherme.jpg" alt="Person 8">
+    <img src="images/Guilherme.jpg">
     <h4><b>Guilherme Araújo</b></h4>
     <p class="small-text">Masters Course</p>
-    <!-- <p class="small-text">2D Materials Fabrication</p> -->
   </div>
 
   <div class="person-card">
-    <img src="images/Bea.jpg" alt="Person 9">
+    <img src="images/Bea.jpg">
     <h4><b>Beatriz Silva</b></h4>
     <p class="small-text">Masters Course</p>
-    <!-- <p class="small-text">2D Materials Fabrication</p> -->
   </div>
   
-   <div class="person-card">
-    <img src="images/GabrielM.png" alt="Person 10">
+  <div class="person-card">
+    <img src="images/GabrielM.png">
     <h4><b>João Fernandes</b></h4>
     <p class="small-text">Masters Course</p>
-    <!-- <p class="small-text">2D Materials Fabrication</p> -->
   </div>
   
   <div class="person-card">
-    <img src="images/GabrielM.png" alt="Person 10">
+    <img src="images/GabrielM.png">
     <h4><b>Gabriel Moreira</b></h4>
     <p class="small-text">Masters Course</p>
-    <!-- <p class="small-text">2D Materials Fabrication</p> -->
   </div>
   
   <div class="person-card">
-    <img src="images/Tiago.jpg" alt="Person 11">
+    <img src="images/Tiago.jpg">
     <h4><b>Tiago Abreu</b></h4>
     <p class="small-text">Masters Course</p>
-    <!-- <p class="small-text">2D Materials Fabrication</p> -->
   </div>
+</div>
 
-  
 </div>
