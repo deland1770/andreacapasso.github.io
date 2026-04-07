@@ -21,13 +21,14 @@ Research Scientist PI
 
 ---
 
-## Research Focus
+<h2 style="text-align:center; margin-top:10px;">Research Focus</h2>
+<hr style="margin-bottom:10px;">
 
 Graphene and MXene membranes, ion transport, nanofluidics, surface-charge engineering, GFET sensing platforms, and memristive modelling of DG–CA3 circuits.
 
----
 
-## Education
+<h2 style="text-align:center; margin-top:10px;">Education</h2>
+<hr style="margin-bottom:10px;">
 
 **PhD**, Materials Science and Engineering  
 Institution / Years  
@@ -35,18 +36,16 @@ Institution / Years
 **MSc**, Physics or Materials Science  
 Institution / Years  
 
----
-
-## Professional Experience
+<h2 style="text-align:center; margin-top:10px;">Professional Experience</h2>
+<hr style="margin-bottom:10px;">
 
 2024 – present  Research Scientist PI, INL  
 2021 – 2024  Researcher / Senior Scientist, INL  
 2018 – 2021  Postdoctoral Researcher (specify)  
 2014 – 2018  Previous positions (optional)
 
----
-
-## Selected Publications
+<h2 style="text-align:center; margin-top:10px;">Selected Publications</h2>
+<hr style="margin-bottom:10px;">
 
 
 Graphene membrane nanochannels for tunable ion sieving (in prep.)  
@@ -54,9 +53,9 @@ Cyrene-processed MXene membranes for selective ion transport (in prep.)
 CMSMs for CO₂ separation at elevated T/p (2023)  
 CO₂-selective CMS membranes from resorcinol–formaldehyde precursors (2022)  
 Hydrophilic CMS membranes for bioethanol dehydration (2022)  
----
 
-## Contacts
+<h2 style="text-align:center; margin-top:10px;">Contacts</h2>
+<hr style="margin-bottom:10px;">
 
 <a href="mailto:andrea.capasso@inl.int">
   andrea.capasso@inl.int
