@@ -37,6 +37,7 @@ title: People
   gap: 40px;
   justify-content: center;
 }
+  
 
 /* Grid for 4 people per row, centered */
 .people-grid-4 {
@@ -135,6 +136,13 @@ title: People
   <div class="person-card">
     <img src="images/Bea.jpg" alt="Person 9">
     <h4><b>Beatriz Silva</b></h4>
+    <p class="small-text">Masters Course</p>
+    <!-- <p class="small-text">2D Materials Fabrication</p> -->
+  </div>
+  
+   <div class="person-card">
+    <img src="images/GabrielM.png" alt="Person 10">
+    <h4><b>João Fernandes</b></h4>
     <p class="small-text">Masters Course</p>
     <!-- <p class="small-text">2D Materials Fabrication</p> -->
   </div>
