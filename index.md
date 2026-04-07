@@ -39,24 +39,24 @@ Institution / Years
 
 ## Professional Experience
 
-2024 – present • Research Scientist PI, INL  
-2021 – 2024 • Researcher / Senior Scientist, INL  
-2018 – 2021 • Postdoctoral Researcher (specify)  
-2014 – 2018 • Previous positions (optional)
+2024 – present  Research Scientist PI, INL  
+2021 – 2024  Researcher / Senior Scientist, INL  
+2018 – 2021  Postdoctoral Researcher (specify)  
+2014 – 2018  Previous positions (optional)
 
 ---
 
 ## Selected Publications
 
-• CO₂-selective CMS membranes from resorcinol–formaldehyde precursors (2022)  
-• Hydrophilic CMS membranes for bioethanol dehydration (2022)  
-• CMSMs for CO₂ separation at elevated T/p (2023)  
-• Graphene membrane nanochannels for tunable ion sieving (in prep.)  
-• Cyrene-processed MXene membranes for selective ion transport (in prep.)
 
+Graphene membrane nanochannels for tunable ion sieving (in prep.)  
+Cyrene-processed MXene membranes for selective ion transport (in prep.)
+CMSMs for CO₂ separation at elevated T/p (2023)  
+CO₂-selective CMS membranes from resorcinol–formaldehyde precursors (2022)  
+Hydrophilic CMS membranes for bioethanol dehydration (2022)  
 ---
 
-## Contact
+## Contacts
 
 <a href="mailto:andrea.capasso@inl.int">
   andrea.capasso@inl.int
