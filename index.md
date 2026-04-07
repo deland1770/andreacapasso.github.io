@@ -19,7 +19,6 @@ Research Scientist PI
 
 </div>
 
----
 
 <h2 style="text-align:center; margin-top:10px;">Research Focus</h2>
 <hr style="margin-bottom:10px;">
