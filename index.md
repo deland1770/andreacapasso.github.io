@@ -58,7 +58,9 @@ Institution / Years
 
 ## Contact
 
-Email: <br
+<a href="andrea.capasso@inl.int" target="_blank">
+  Email
+</a><br>
 <a href="https://scholar.google.com/citations?user=lSos5ssAAAAJ&hl=pt-PT&oi=ao" target="_blank">
   Google Scholar
 </a><br>
