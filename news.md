@@ -32,8 +32,8 @@ title: News
     
   <div style="flex:1; min-width:0;">
       <details>
-      <h2>Vicente Lopes wins SiNANO Institute Best Paper Award</h2>
       <summary style="list-style:none; cursor:pointer;">  
+      <h2>Vicente Lopes wins SiNANO Institute Best Paper Award</h2>
       <p> Vicente Lopes won the SiNANO Institute award for his work on graphene-based glucose sensing...</p>  
       </summary>
       <p style="text-align: justify;">
