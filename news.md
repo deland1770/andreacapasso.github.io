@@ -20,7 +20,7 @@ title: News
   </div>
 
   <div style="width:150px; height:150px; overflow:hidden;">
-    <img src="/assets/news/example.jpg" style="width:100%; height:100%; object-fit:cover; border-radius:4px;">
+    <img src="/images/NEWS - Vicente.jpg" style="width:100%; height:100%; object-fit:cover; border-radius:4px;">
   </div>
 </div>
 
