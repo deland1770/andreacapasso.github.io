@@ -8,7 +8,7 @@ title: News
 
 <div style="max-width:1500px; margin:0 auto;">
 
-<div style="display:flex; align-items:flex-start; gap:40px; margin-bottom:40px; border-bottom:1px solid #ddd; padding-bottom:20px; flex-wrap: wrap;">
+<div style="display:flex; align-items:flex-start; gap:40px; margin-bottom:40px; border-bottom:1px solid #ddd; padding-bottom:20px; flex-wrap: nowrap;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:0;">
