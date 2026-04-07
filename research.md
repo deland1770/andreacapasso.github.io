@@ -4,8 +4,7 @@ title: Research
 ---
 
 <h1 style="text-align:center; margin-top:40px;">Research</h1>
-
-<hr>
+<hr style="margin-bottom:40px;">
 
 <style>
 .content {
