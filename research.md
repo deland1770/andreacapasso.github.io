@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-<div style="text-align:center; margin-top:20px;">
+<h1 style="text-align:center; margin-top:40px;">Research</h1>
   
 <style>
 .content {
