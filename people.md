@@ -140,7 +140,7 @@ title: People
   </div>
   
   <div class="person-card">
-    <img src="images/GabrielM.jpg" alt="Person 10">
+    <img src="images/GabrielM.png" alt="Person 10">
     <h4><b>Gabriel Moreira</b></h4>
     <p class="small-text">Masters Course</p>
     <!-- <p class="small-text">2D Materials Fabrication</p> -->
