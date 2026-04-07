@@ -33,7 +33,6 @@ title: Research
 
 <div class="content">
 
-<h1 style="text-align:center;">Research</h1>
 
 <p>
 Our group works across the full stack of two-dimensional (2D) materials: from scalable production of crystals and inks, to ion-selective membranes, neuromorphic devices, and sensing platforms. We focus on mechanisms — interlayer spacing, surface charge, ion mobility, and defect engineering — and use them to design technologies for water, energy, and information processing.
