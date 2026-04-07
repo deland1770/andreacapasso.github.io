@@ -3,12 +3,24 @@ layout: default
 title: Research
 ---
 
+<style>
+.content {
+  text-align: justify;
+  text-justify: inter-word;
+  max-width: 900px;
+  margin: 0 auto;
+}
+</style>
+
+<div class="content">
+
 # Research
 
 Our group works across the full stack of two-dimensional (2D) materials: from scalable production of crystals and inks, to ion-selective membranes, neuromorphic devices, and sensing platforms. We focus on mechanisms — interlayer spacing, surface charge, ion mobility, and defect engineering — and use them to design technologies for water, energy, and information processing.
 
 ---
-<img src="cvd.jpg" alt="2D crystal production" style="width:100%; max-width:800px; border-radius:8px; margin:20px 0;">
+
+<img src="cvd.jpg" alt="2D crystal production" style="width:100%; max-width:800px; border-radius:8px; margin:20px auto; display:block;">
 
 ## 2D crystal production
 
@@ -47,3 +59,5 @@ At the device level, we investigate how 2D channels, interfaces, and defects inf
 Across all projects, we focus on sustainable processing routes and reproducible protocols for 2D materials and devices. This includes the use of green solvents such as Cyrene for LPE, careful assessment of additives and dispersants, and systematic studies of artefacts in surface and structural characterisation (for example, recurrent AFM backgrounds from surfactant residues).
 
 We are also involved in community discussions on standards, metadata, and reporting practices for 2D materials. Our goal is to move from single “hero” devices to statistically robust data, with clear links between processing history, characterisation, and performance. This approach underpins our work on membranes, electronic devices, and neuromorphic platforms, and is reflected in how we design experiments and share data.
+
+</div>
