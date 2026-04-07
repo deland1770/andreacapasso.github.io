@@ -34,10 +34,10 @@ title: News
       <details>
       <summary style="list-style:none; cursor:pointer;">  
       <h2>Vicente Lopes wins SiNANO Institute Best Paper Award</h2>
-      <p> Vicente Lopes won the SiNANO Institute award for his work on graphene-based glucose sensing...</p>  
+      <p> Vicente Lopes won the SiNANO Institute Androula Nassiopoulou Best Paper Award 2025 for his work on graphene-based glucose sensing... </p>  
       </summary>
       <p style="text-align: justify;">
-        Vicente Lopes won the SiNANO Institute Androula Nassiopoulou Best Paper Award 2025 for his work on graphene-based glucose sensing in contact lenses, enabling non-invasive tear monitoring. The collaborative study, involving multiple INL researchers, will be honored at the 2026 EUROSOI-ULIS Conference in Granada, Spain. 
+        in contact lenses, enabling non-invasive tear monitoring. The collaborative study, involving multiple INL researchers, will be honored at the 2026 EUROSOI-ULIS Conference in Granada, Spain. 
       </p>
       </details>
       <p style="font-size:14px; color:#777;">
