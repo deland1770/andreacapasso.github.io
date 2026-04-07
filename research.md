@@ -4,7 +4,9 @@ title: Research
 ---
 
 <h1 style="text-align:center; margin-top:40px;">Research</h1>
-  
+
+<hr>
+
 <style>
 .content {
   max-width: 900px;
@@ -38,7 +40,7 @@ title: Research
 Our group works across the full stack of two-dimensional (2D) materials: from scalable production of crystals and inks, to ion-selective membranes, neuromorphic devices, and sensing platforms. We focus on mechanisms — interlayer spacing, surface charge, ion mobility, and defect engineering — and use them to design technologies for water, energy, and information processing.
 </p>
 
-<hr>
+
 
 <img src="cvd.jpg" alt="2D crystal production">
 
