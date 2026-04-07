@@ -138,11 +138,20 @@ title: People
     <p class="small-text">Masters Course</p>
     <!-- <p class="small-text">2D Materials Fabrication</p> -->
   </div>
-
+  
   <div class="person-card">
-    <img src="images/Tiago.jpg" alt="Person 10">
+    <img src="images/GabrielM.jpg" alt="Person 10">
+    <h4><b>Gabriel Moreira</b></h4>
+    <p class="small-text">Masters Course</p>
+    <!-- <p class="small-text">2D Materials Fabrication</p> -->
+  </div>
+  
+  <div class="person-card">
+    <img src="images/Tiago.jpg" alt="Person 11">
     <h4><b>Tiago Abreu</b></h4>
     <p class="small-text">Masters Course</p>
     <!-- <p class="small-text">2D Materials Fabrication</p> -->
   </div>
+
+  
 </div>
