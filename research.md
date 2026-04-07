@@ -3,6 +3,8 @@ layout: default
 title: Research
 ---
 
+<div style="text-align:center; margin-top:20px;">
+  
 <style>
 .content {
   max-width: 900px;
