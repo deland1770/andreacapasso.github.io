@@ -37,7 +37,7 @@ title: News
         (texto aqui...)
       </p>
       <p style="font-size:14px; color:#777;">
-        Andrea Capasso — September 8, 2025
+        Andrea Capasso - August 13, 2025
       </p>
     </div>
 
