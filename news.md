@@ -6,7 +6,7 @@ title: News
 <h1 style="text-align:center; margin-top:40px;">News</h1>
 <hr style="margin-bottom:40px;">
 
-<div style="max-width:1200px; margin:0 auto;">
+<div style="max-width:1500px; margin:0 auto;">
 
 <div style="display:flex; align-items:flex-start; gap:40px; margin-bottom:40px; border-bottom:1px solid #ddd; padding-bottom:20px; flex-wrap: wrap;">
 
