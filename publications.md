@@ -2,9 +2,29 @@
 layout: default
 title: Publications
 ---
+<style>
+.content {
+  max-width: 900px;
+  margin: 0 auto;
+}
 
-<h1 style="text-align:center; margin-top:40px;">Publications</h1>
-<hr>
+/* Justify all text inside */
+.content p,
+.content li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Optional: better spacing */
+.content h4 {
+  margin-top: 30px;
+}
+
+.content ol {
+  padding-left: 20px;
+}
+</style>
+
 
 <h4><b>Under Review</b></h4>
 <p><b>1.</b> M. Trevisani, A. Robles-Fernández, V. Lopes, H.T. Semini, V.E. Neubrand, M.R. Sepúlveda, P. Sánchez-Moreno, Y. Shin, D. Moon, G.H. Lee, F. Benfenati, M. Bramini, V. Castagnola, A. Capasso, “Biocompatible hydrogenated graphene interfaces promote axonal regeneration”. Small </p>
