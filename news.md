@@ -22,7 +22,7 @@ title: News
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 300px; height:300px; overflow:hidden; border-radius:8px;">
+  <div style="flex:0 0 100px; height:100px; overflow:hidden; border-radius:8px;">
     <img src="images/NEWS-Vicente.jpg" style="width:100%; height:100%; object-fit:cover;">
   </div>
 
