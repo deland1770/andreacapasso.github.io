@@ -14,14 +14,14 @@ title: News
   <div style="flex:1; min-width:0;">
       <h2>Dr. Andrea Capasso Appointed Co-Lead of IAM-I Electronics Working Group</h2>
       <p style="text-align: justify;">
-        Dr. Andrea Capasso has been appointed co-leader of Working Group 4 – Electronics within the Innovative Advanced Materials Initiative (IAM-I), a major European network focused on advancing innovative materials. In this role, he will help define priorities for next-generation electronic materials, such as semiconductors, flexible devices and quantum components, while fostering collaboration between research, industry, and policy to strengthen Europe’s competitiveness.
+        Dr. Andrea Capasso has been appointed co-leader of Working Group 4–Electronics within the Innovative Advanced Materials Initiative (IAM-I), a major European network focused on advancing innovative materials. In this role, he will help define priorities for next-generation electronic materials, such as semiconductors, flexible devices and quantum components, while fostering collaboration between research, industry, and policy to strengthen Europe’s competitiveness.
       </p>
       <p style="font-size:14px; color:#777;">
         Andrea Capasso — August 13, 2025
       </p>
     </div>
 
-  <div style="flex:0 0 200px; height:200px; overflow:hidden; border-radius:8px;">
+  <div style="flex:0 0 200px; height:200px; overflow:hidden; border-radius:0px;">
       <img src="images/NEWS-Vicente.jpg" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
