@@ -31,7 +31,7 @@ title: News
 
 
   <!-- NOTÍCIA 2 -->
-  <div style="display:flex; align-items:flex-start; gap:40px; margin-bottom:40px; border-bottom:1px solid #ddd; padding-bottom:20px;">
+  <div style="display:flex; align-items:center; gap:40px; margin-bottom:40px; border-bottom:1px solid #ddd; padding-bottom:20px;">
     
     <!-- Texto -->
   <div style="flex:3; min-width:0;">
