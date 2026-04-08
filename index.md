@@ -59,6 +59,13 @@ Institution / Years
 <h2 style="text-align:left; margin-top:10px;">Selected Publications</h2>
 <hr style="margin-bottom:10px;">
 
+  <ul>
+    <li>Graphene membrane nanochannels for tunable ion sieving (in prep.)</li>
+    <li>Cyrene-processed MXene membranes for selective ion transport (in prep.)</li>
+    <li>CMSMs for CO₂ separation at elevated T/p (2023)</li>
+    <li>CO₂-selective CMS membranes from resorcinol–formaldehyde precursors (2022)</li>
+    <li>Hydrophilic CMS membranes for bioethanol dehydration (2022)</li>
+  </ul>
 
 Graphene membrane nanochannels for tunable ion sieving (in prep.)  
 Cyrene-processed MXene membranes for selective ion transport (in prep.) 
