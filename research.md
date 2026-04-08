@@ -41,7 +41,7 @@ Our group works across the full stack of two-dimensional (2D) materials: from sc
 
 
 
-<img src="cvd.jpg" alt="2D crystal production">
+<img src="images/Research" alt="2D crystal production">
 
 <h2>2D crystal production</h2>
 
