@@ -24,7 +24,7 @@ title: News
 
     <!-- Imagem -->
   <div style="flex:1; max-width:180px; height:180px; overflow:hidden;">
-      <img src="images/NEWS-Vicente.jpg" style="width:100%; height:100%; object-fit:cover;">
+      <img src="images/NEWS-Andrea.jpg" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
   </div>
