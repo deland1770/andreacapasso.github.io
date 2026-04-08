@@ -39,7 +39,7 @@ Institution / Years
 <hr style="margin-bottom:10px;">
 
 
-<div style="display:grid; grid-template-columns:180px 1fr; row-gap:6px; max-width:700px;">
+<div style="display:grid; grid-template-columns:180px 1fr; row-gap:6px; max-width:500px;">
 
   <div>2024 – present</div>
   <div>Research Scientist PI, INL</div>
@@ -55,10 +55,6 @@ Institution / Years
 
 </div>
 
-2024 – present  Research Scientist PI, INL  
-2021 – 2024  Researcher / Senior Scientist, INL  
-2018 – 2021  Postdoctoral Researcher (specify)  
-2014 – 2018  Previous positions (optional)
 
 <h2 style="text-align:left; margin-top:10px;">Selected Publications</h2>
 <hr style="margin-bottom:10px;">
