@@ -38,9 +38,14 @@ Institution / Years
 <h2 style="text-align:left; margin-top:10px;">Professional Experience</h2>
 <hr style="margin-bottom:10px;">
 
-<div style="display:flex; justify-content:space-between; max-width:400px;">
-  <span>2024–Present</span>
+<div style="display:flex; justify-content:space-between; max-width:300px;">
+  <span>2024 – Present</span>
   <span>Research Scientist PI, INL </span>
+</div>
+
+<div style="display:flex; justify-content:space-between; max-width:300px;">
+  <span>2021 – 2024</span>
+  <span>Researcher / Senior Scientist, INL  </span>
 </div>
 
 2024 – present  Research Scientist PI, INL  
