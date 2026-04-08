@@ -39,7 +39,7 @@ Institution / Years
 <hr style="margin-bottom:10px;">
 
 
-<div style="display:grid; grid-template-columns:180px 1fr; row-gap:6px; max-width:500px;">
+<div style="display:grid; grid-template-columns:auto 1fr; row-gap:6px; max-width:500px;">
 
   <div>2024 – present</div>
   <div>Research Scientist PI, INL</div>
