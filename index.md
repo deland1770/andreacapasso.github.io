@@ -39,9 +39,9 @@ Institution / Years
 <hr style="margin-bottom:10px;">
 
 2024 – present &nbsp;&nbsp; Research Scientist PI, INL  
-2021 – 2024 &nbsp;&nbsp; Researcher / Senior Scientist, INL  
-2018 – 2021 &nbsp;&nbsp; Postdoctoral Researcher (specify)  
-2014 – 2018 &nbsp;&nbsp; Previous positions (optional)
+2021 – 2024 &nbsp;&nbsp;&nbsp; Researcher / Senior Scientist, INL  
+2018 – 2021 &nbsp;&nbsp;&nbsp; Postdoctoral Researcher (specify)  
+2014 – 2018 &nbsp;&nbsp;&nbsp; Previous positions (optional)
 
 <h2 style="text-align:left; margin-top:10px;">Selected Publications</h2>
 <hr style="margin-bottom:10px;">
