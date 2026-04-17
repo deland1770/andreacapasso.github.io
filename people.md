@@ -130,7 +130,7 @@ title: People
   </div>
   
   <div class="person-card">
-    <img src="images/joao_fernandes.jpeg">
+    <img src="images/joao_Fernandes.png">
     <h4><b>João Fernandes</b></h4>
     <p class="small-text">Masters Course</p>
   </div>
