@@ -26,6 +26,27 @@ Coordinator / INL Transversal Line on Advanced Materials
 International Iberian Nanotechnology Laboratory (INL), Braga, Portugal
 </p>
 
+<p style="font-size:18px; margin:0;">
+Co-Lead / Working Group 4 – Electronics, IAM-I
+</p>
+
+<p style="font-size:18px; margin:0;">
+Editor / Diamond and Related Materials (Elsevier)
+</p>
+
+<a href="mailto:andrea.capasso@inl.int">
+  andrea.capasso@inl.int
+</a><br>
+<a href="https://scholar.google.com/citations?user=lSos5ssAAAAJ&hl=pt-PT&oi=ao" target="_blank">
+  Google Scholar
+</a><br>
+<a href="https://orcid.org/0000-0003-0299-6764" target="_blank">
+  Orcid
+</a><br>
+<a href="https://inl.int/community/andrea-capasso/" target="_blank">
+  inl.int
+</a>
+
 <p style="font-size:16px; margin-top:5px;">
 2D Materials • Membranes • Nanofluidics • Advanced Devices
 </p>
@@ -104,16 +125,5 @@ Hydrophilic CMS membranes for bioethanol dehydration (2022)  <br>
 <h2 style="text-align:left; margin-top:10px;">Contacts</h2>
 <hr style="margin-bottom:10px;">
 
-<a href="mailto:andrea.capasso@inl.int">
-  andrea.capasso@inl.int
-</a><br>
-<a href="https://scholar.google.com/citations?user=lSos5ssAAAAJ&hl=pt-PT&oi=ao" target="_blank">
-  Google Scholar
-</a><br>
-<a href="https://orcid.org/0000-0003-0299-6764" target="_blank">
-  Orcid
-</a><br>
-<a href="https://inl.int/community/andrea-capasso/" target="_blank">
-  INL Page
-</a>
+
 
