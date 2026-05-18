@@ -32,8 +32,11 @@ title: Publications
 
 <h4><b>Under Review</b></h4>
 <p><b>1.</b> M. Trevisani, A. Robles-Fernández, V. Lopes, H.T. Semini, V.E. Neubrand, M.R. Sepúlveda, P. Sánchez-Moreno, Y. Shin, D. Moon, G.H. Lee, F. Benfenati, M. Bramini, V. Castagnola, A. Capasso, “Biocompatible hydrogenated graphene interfaces promote axonal regeneration”. Small </p>
-<p><b>2.</b> B. Silva, S.S. Nemala, S. Kaushik, P.D. Silva, L. Saini, M.B. Santos, B. Espiña, S. Marras, L.H. Yeh, G. Kalon, A. Capasso, “Sustainable MXene membranes for ion sieving and antibacterial water purification”. Journal of Membrane Science</p>
-<p><b>3.</b> S.S. Nemala, V. Lopes, P.D. Silva, R.S. Sampaio, S. Lauciello, R. Brescia, M.F. Montemor, H.J. Salavagione, A. Capasso, “Textile supercapacitors with nanocarbon–elastomer composite electrodes”. Nanoscale Horizons</p>
+<p><b>2.</b> S.S. Nemala, V. Lopes, P.D. Silva, R.S. Sampaio, S. Lauciello, R. Brescia, M.F. Montemor, H.J. Salavagione, A. Capasso, “Textile supercapacitors with nanocarbon–elastomer composite electrodes”. Nanoscale Horizons</p>
+
+<h4><b>2026</b></h4>
+
+<p><b>79.</b> B. Silva, S.S. Nemala, S. Kaushik, P.D. Silva, L. Saini, M.B. Santos, B. Espiña, S. Marras, L.H. Yeh, G. Kalon, A. Capasso, <em>“Sustainable MXene membranes for ion sieving and antibacterial water purification”</em>. Journal of Membrane Science</p>
 
 <h4><b>2025</b></h4>
 
