@@ -70,9 +70,9 @@ title: News
     </div>
 
     <!-- Imagem -->
-  <div style="flex:1; max-width:300px; height:200px; overflow:hidden;">
+  <div style="flex:1; max-width:300px; overflow:hidden;">
     <a href="https://inl.int/new-sustainable-graphene-production/" target="_blank">
-      <img src="images/siva_andrea_vicente2.jpg" style="width:100%; height:100%; object-fit:cover;">
+      <img src="images/siva_andrea_vicente2.jpg" style="width:100%; height:auto; object-fit:cover;">
     </a>
     </div>
 
