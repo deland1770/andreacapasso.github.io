@@ -67,7 +67,7 @@ title: News
 
     <!-- Imagem -->
   <div style="flex:1; max-width:200px; height:200px; overflow:hidden;">
-      <img src="images/NEWS-Vicente.jpg" style="width:100%; height:100%; object-fit:cover;">
+      <img src="images/siva_andrea_vicente.png" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
   </div>
