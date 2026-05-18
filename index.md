@@ -47,17 +47,8 @@ Editor / Diamond and Related Materials (Elsevier)
   inl.int
 </a>
 
-<p style="font-size:16px; margin-top:5px;">
-2D Materials • Membranes • Nanofluidics • Advanced Devices
-</p>
 
 </div>
-
-
-<h2 style="text-align:left; margin-top:10px;">Research Focus</h2>
-<hr style="margin-bottom:10px;">
-
-Graphene and MXene membranes, ion transport, nanofluidics, surface-charge engineering, GFET sensing platforms, and memristive modelling of DG–CA3 circuits.
 
 
 <h2 style="text-align:left; margin-top:10px;">Education</h2>
