@@ -36,13 +36,13 @@ Editor / Diamond and Related Materials (Elsevier)
 
 <a href="mailto:andrea.capasso@inl.int">
   andrea.capasso@inl.int
-</a><br>
+</a> |
 <a href="https://scholar.google.com/citations?user=lSos5ssAAAAJ&hl=pt-PT&oi=ao" target="_blank">
   Google Scholar
-</a><br>
+</a> |
 <a href="https://orcid.org/0000-0003-0299-6764" target="_blank">
   Orcid
-</a><br>
+</a> |
 <a href="https://inl.int/community/andrea-capasso/" target="_blank">
   inl.int
 </a>
