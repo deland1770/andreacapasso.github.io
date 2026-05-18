@@ -39,8 +39,7 @@ Institution / Years
 <hr style="margin-bottom:10px;">
 
 
-<div style="display:grid; grid-template-columns:120px 1fr; row-gap:6px; max-width:700px;">
-
+<div style="display:grid; grid-template-columns:auto 1fr; row-gap:6px; max-width:700px;">
 
 <div>Jan 2026 – present</div>
 <div>Editorial Board Member, Diamond and Related Materials (Elsevier)</div>
