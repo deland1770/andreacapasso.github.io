@@ -54,11 +54,15 @@ Editor / Diamond and Related Materials (Elsevier)
 <h2 style="text-align:left; margin-top:10px;">Education</h2>
 <hr style="margin-bottom:10px;">
 
-<div><strong>PhD</strong> (Materials Science / Nanotechnology)</div>
-<div><em>Queensland University of Technology – Brisbane, Australia</em></div>
-<div>Faculty of Built Environment and Engineering – School of Engineering Systems</div>
-<div>Research focus: nanotechnology, materials science, physics, photovoltaics</div>
-<div>Thesis: <strong><em>"Controlled growth of carbon nanotubes for electronic applications"</em></strong></div>
+<div style="display:grid; grid-template-columns:auto 1fr; row-gap:6px; column-gap:48px; max-width:700px;">
+
+  <div style="text-align:justify; font-weight:bold;">Ph.D. 2012</div>
+  <div style="text-align:justify;">Queensland University of Technology / Materials Science</div>
+  <div style="text-align:justify; font-weight:bold;">Laurea (Integrated MSc) 2007 </div>
+  <div style="text-align:justify;">University of Roma Tre / Electronic Engineering</div>
+
+</div>
+
 
 <div style="margin-top:40px;"></div>
 
