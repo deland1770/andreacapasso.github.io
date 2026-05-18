@@ -1,5 +1,5 @@
 title: "Andrea Capasso"
-theme: minima
+theme: jekyll-theme-cayman
 header_pages:
   - research.md
   - news.md
