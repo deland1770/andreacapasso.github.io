@@ -13,23 +13,22 @@ title: News
     
   <!-- Texto -->
   <div style="flex:3; min-width:0;">
-    <a href="https://inl.int/inl-pi-co-leads-electronics-working-group-in-iam-i/" target="_blank">
-  <h2> Dr. Andrea Capasso Appointed Co-Lead of IAM-I Electronics Working Group </h2>
-    </a>
+      <h2> Dr. Andrea Capasso Appointed Co-Lead of IAM-I Electronics Working Group </h2>
       <p style="text-align: justify;">
-        Dr. Andrea Capasso has been appointed co-leader of Working Group 4 – Electronics within the Innovative Advanced Materials Initiative (IAM-I), a major European network focused on advancing innovative materials. In this role, he will help define priorities for next-generation electronic materials, such as semiconductors, flexible devices and quantum components, while fostering collaboration between research, industry, and policy to strengthen Europe’s competitiveness.
+        Dr. Andrea Capasso has been appointed co-leader of Working Group 4 – Electronics within the Innovative Advanced Materials Initiative (IAM-I), a major European network focused on advancing innovative materials. In this role, he will help define priorities for next-generation electronic materials, such as semiconductors, flexible devices and quantum components, while fostering collaboration between research, industry, and policy to strengthen Europe's competitiveness.
       </p>
       <p style="font-size:14px; color:#777;">
         August 13, 2025
       </p>
     </div>
-
     <!-- Imagem -->
-<!-- Imagem -->
-<div style="flex:1; max-width:200px; height:200px; overflow:hidden;">
-  <a href="https://inl.int/inl-pi-co-leads-electronics-working-group-in-iam-i/" target="_blank"><img src="images/NEWS-Andrea.jpg" style="width:100%; height:100%; object-fit:cover;"></a>
-</div>
+    <div style="flex:1; max-width:200px; height:200px; overflow:hidden;">
+      <a href="https://inl.int/inl-pi-co-leads-electronics-working-group-in-iam-i/" target="_blank">
+        <img src="images/NEWS-Andrea.jpg" style="width:100%; height:100%; object-fit:cover;">
+      </a>
+    </div>
 
+  </div>
 
   <!-- NOTÍCIA 2 -->
   <div style="display:flex; align-items:center; gap:40px; margin-bottom:40px; border-bottom:1px solid #ddd; padding-bottom:20px;">
