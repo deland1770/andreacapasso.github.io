@@ -29,14 +29,14 @@ Graphene and MXene membranes, ion transport, nanofluidics, surface-charge engine
 <h2 style="text-align:left; margin-top:10px;">Education</h2>
 <hr style="margin-bottom:10px;">
 
-**PhD** (Materials Science / Nanotechnology)
-<em>Queensland University of Technology – Brisbane, Australia</em>
-Faculty of Built Environment and Engineering – School of Engineering Systems
-Research focus: nanotechnology, materials science, physics, photovoltaics
-Thesis: **<em>“Controlled growth of carbon nanotubes for electronic applications”</em>**
-
-**MSc**, Physics or Materials Science  
-Institution / Years  
+<div><strong>PhD</strong> (Materials Science / Nanotechnology)</div>
+<div><em>Queensland University of Technology – Brisbane, Australia</em></div>
+<div>Faculty of Built Environment and Engineering – School of Engineering Systems</div>
+<div>Research focus: nanotechnology, materials science, physics, photovoltaics</div>
+<div>Thesis: <strong><em>"Controlled growth of carbon nanotubes for electronic applications"</em></strong></div>
+<div><strong>"Laurea"</strong> in Electronic Engineering (five-year coursework)</div>
+<div><em>University of Roma Tre – Rome, Italy</em></div>
+<div>Faculty of Engineering</div>
 
 <h2 style="text-align:left; margin-top:10px;">Professional Experience</h2>
 <hr style="margin-bottom:10px;">
