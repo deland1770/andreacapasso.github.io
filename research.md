@@ -70,11 +70,15 @@ The same membranes are used as nanofluidic systems for blue energy harvesting, w
 <h2>Sensing and bioelectronic interfaces</h2>
 
 <p>
-We develop graphene field-effect transistor (GFET) platforms and related 2D devices for chemical and biological sensing. Our work links surface chemistry, Debye screening, and device geometry to sensitivity and selectivity, enabling real-time detection of ions, biomolecules, and environmental contaminants. Microfluidic integration allows controlled delivery of analytes and multiplexed measurements on the same chip.
+We develop graphene field-effect transistor (GFET) platforms and related 2D devices for chemical and biological sensing. Our work links surface chemistry, Debye screening, and device geometry to sensitivity and selectivity, enabling real-time detection of ions, biomolecules, and environmental contaminants. Our pivotal work on the ultrasenstive and selective detection of glucose at a record limit of detection paves the way for next-generation, non-invasive glucose monitoring approaches for diabetic patients. Microfluidic integration allows controlled delivery of analytes and multiplexed measurements on the same chip.
 </p>
 
 <p>
 Beyond classical sensing, we explore hybrid interfaces where 2D materials couple ionic signals in liquids to electronic readout. This includes soft, conformable substrates and printed interconnects, with an eye towards wearable and implantable systems. We emphasise device architectures that are compatible with scalable fabrication and robust long-term operation in realistic environments.
+</p>
+
+<p>
+Additionally, our group focuses on strain sensing through flexible and wearable platforms based on liquid-processed 2D materials. Some examples include the fabrication of microsupercapacitors and coated sponges for respiratory monitoring, rebound and rotation sensing, and radial pulse measurements.
 </p>
 
 <hr>
@@ -84,7 +88,7 @@ Beyond classical sensing, we explore hybrid interfaces where 2D materials couple
 <img src="images/memristors.png">
 
 <p>
-We work on neuromorphic hardware that combines 2D materials (i.e., transition metal dichalcogenides, hexagonal boron nitride) with memristive elements to emulate synaptic plasticity and circuit-level dynamics. Our ongoing efforts involve exploring different architectures (lateral, vertical, and heterostructures) to finely tune the performance metrics of the devices and to achieve reproducible technology with low device-to-device variability.
+We work on neuromorphic hardware that combines 2D materials (i.e., transition metal dichalcogenides, hexagonal boron nitride) with memristive elements to emulate synaptic plasticity and circuit-level dynamics. Our ongoing efforts involve exploring different architectures (lateral, vertical, and heterostructures) and different 2D material production techniques (CVD, electrochemical exfoliation) to finely tune the performance metrics of the devices and to achieve reproducible technology with low device-to-device variability.
 </p>
 
 <p>
