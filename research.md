@@ -78,7 +78,7 @@ Beyond classical sensing, we explore hybrid interfaces where 2D materials couple
 </p>
 
 <p>
-Additionally, our group focuses on strain sensing through flexible and wearable platforms based on liquid-processed 2D materials. Some examples include the fabrication of microsupercapacitors and coated sponges for respiratory monitoring, rebound and rotation sensing, and radial pulse measurements.
+Additionally, our group focuses on strain sensing through flexible and wearable platforms based on liquid-processed 2D materials. Some examples include the fabrication of coated textiles and sponges for respiratory monitoring, rebound and rotation sensing, and radial pulse measurements.
 </p>
 
 <hr>
