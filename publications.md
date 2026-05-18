@@ -36,6 +36,20 @@ title: Publications
 <p><b>3.</b> S.S. Nemala, V. Lopes, P.D. Silva, R.S. Sampaio, S. Lauciello, R. Brescia, M.F. Montemor, H.J. Salavagione, A. Capasso, “Textile supercapacitors with nanocarbon–elastomer composite electrodes”. Nanoscale Horizons</p>
 
 <h4><b>2025</b></h4>
+
+<p> <b>78.</b> V. Lopes, Y. Bae, G. Araújo, A. Schulman, T. Abreu, A. Capasso, <em>"Electrochemical metallization memristors: From bulk to 2D materials"</em>, Advanced Functional Materials.</p>
+
+<p> <b>77.</b> M. Trevisani, A. Robles-Fernández, V. Lopes, H.T. Semini, V.E. Neubrand, M.R. Sepúlveda, P. Sánchez-Moreno, Y. Shin, D. Moon, G.H. Lee, F. Benfenati, M. Bramini, V. Castagnola, A. Capasso, <em>"Biocompatible hydrogenated graphene interfaces promote axonal regeneration"</em>, Small Structures (in revision).</p>
+
+<p> <b>76.</b> S.S. Nemala, V. Lopes, P.D. Silva, R.S. Sampaio, S. Lauciello, R. Brescia, M.F. Montemor, H.J. Salavagione, A. Capasso, <em>"Textile supercapacitors with nanocarbon–elastomer composite electrodes"</em>, Nanoscale (in revision).</p>
+
+<p> <b>75.</b> B. Silva, S.S. Nemala, S. Kaushik, P.D. Silva, L. Saini, M.B. Santos, B. Espiña, S. Marras, L.H. Yeh, G. Kalon, A. Capasso, <em>"Sustainable MXene membranes for ion sieving and antibacterial water purification"</em>, Journal of Membrane Science (2026) 125298.</p>
+
+<p> <b>74.</b> G. Moreira, B. Silva, T. Abreu, S.S. Nemala, P. Alpuim, C. Rodrigues, S. Abalde-Cela, M. Xavier, F. De Boni, M. Prato, A. Capasso, <em>"Substrate-dependent fluorination of graphene for advanced biointerfaces"</em>, ACS Applied Materials and Interfaces 17 (43) (2025) 59934–59944.</p>
+
+<p> <b>73.</b> S.S. Nemala, B. Bernardino, R.M.R. Pinto, V. Lopes, P. Alpuim, I. Çaha, E. Sotgiu, M.A. Gómez-Fatou, J.F. Vega, H.J. Salavagione, A. Capasso, <em>"Electrically conductive nanocarbon/elastomer composite inks for flexible and wearable strain sensing"</em>, Small (2025), e2406844.</p>
+
+<p> <b>72.</b> D. Biswabhusan, S.N. Paltasingh, C. Naman, S.S. Nemala, R. Aparna, S. Kaushik, A. Capasso, S. Kumar Nayak, L.H. Yeh, G. Kalon, “Interaction-Driven Giant Electrostatic Modulation of Ion Permeation in Atomically Small Capillaries”, Nature Communications 16 (1) (2025) 8542.</p>
 <p><b>71.</b> G. Araújo, V.C.A. Ficca, V. Lopes, E. Placidi, A. Capasso, “Interface Engineering of Chemical Vapor‐Deposited 2D MoSe2”, physica status solidi RRL, (2025) 2500124.</p>
 <p><b>70.</b> V. Lopes, T. Abreu, M. Abrantes, S.S. Nemala, F. De Boni, M. Prato, P. Alpuim, A. Capasso, “Graphene-based glucose sensors with an attomolar limit of detection”. J. Am. Chem. Soc. 147 (2025) 13059–13070.</p>
 <p><b>69.</b> S. Kaushik, L. Saini, S.S. Nemala, A. Capasso, L.H. Yeh, G. Kalon, “Can structure influence hydrovoltaic energy generation? Insights from metallic 1T' and semiconducting 2H phases of MoS2”. Nanoscale 17 (2025), 3451-3459.</p>
