@@ -68,7 +68,7 @@ The same membranes are used as nanofluidic systems for blue energy harvesting, w
 <hr>
 
 <h2>Sensing and bioelectronic interfaces</h2>
-
+<img src="images/sensing.png">
 <p>
 We develop graphene field-effect transistor (GFET) platforms and related 2D devices for chemical and biological sensing. Our work links surface chemistry, Debye screening, and device geometry to sensitivity and selectivity, enabling real-time detection of ions, biomolecules, and environmental contaminants. Our pivotal work on the ultrasenstive and selective detection of glucose at a record limit of detection paves the way for next-generation, non-invasive glucose monitoring approaches for diabetic patients. Microfluidic integration allows controlled delivery of analytes and multiplexed measurements on the same chip.
 </p>
