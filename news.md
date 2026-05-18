@@ -27,7 +27,7 @@ title: News
     <!-- Imagem -->
 <!-- Imagem -->
 <div style="flex:1; max-width:200px; height:200px; overflow:hidden;">
-  <a href="https://inl.int/inl-pi-co-leads-electronics-working-group-in-iam-i/" target="_blank">n<img src="images/NEWS-Andrea.jpg" style="width:100%; height:100%; object-fit:cover;"></a>
+  <a href="https://inl.int/inl-pi-co-leads-electronics-working-group-in-iam-i/" target="_blank"><img src="images/NEWS-Andrea.jpg" style="width:100%; height:100%; object-fit:cover;"></a>
 </div>
 
 
