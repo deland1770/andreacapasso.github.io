@@ -10,7 +10,20 @@ title: Andrea Capasso
 <h1 style="margin-bottom:10px;">Andrea Capasso</h1>
 
 <p style="font-size:18px; margin:0;">
-Research Scientist PI
+Research Scientific – Principal Investigator
+
+</p>
+
+<p style="font-size:18px; margin:0;">
+Head of Laboratory / 2D Crystal Fab
+</p>
+
+<p style="font-size:18px; margin:0;">
+Coordinator / INL Transversal Line on Advanced Materials
+</p>
+
+<p style="font-size:18px; margin:0;">
+International Iberian Nanotechnology Laboratory (INL), Braga, Portugal
 </p>
 
 <p style="font-size:16px; margin-top:5px;">
