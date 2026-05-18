@@ -102,13 +102,19 @@ Editor / Diamond and Related Materials (Elsevier)
 <hr style="margin-bottom:10px;">
 
 <li>
-“Stable Graphene Membranes for Selective Ion Transport and Emerging Contaminants Removal in Water” Advanced Functional Materials (2023) 
+  “Stable Graphene Membranes for Selective Ion Transport and Emerging Contaminants Removal in Water” Advanced Functional Materials (2023) 
+</li>
 
-“Bipolar Resistive Switching in 2D MoSe2 Grown by Atmospheric Pressure Chemical Vapor Deposition” ACS Applied Materials & Interfaces (2024) 
-
-“Sustainable MXene Membranes for Ion Sieving and Antibacterial Water Purification” Journal of Membrane Science (2026) 
-
-“Multifunctional Superhydrophobic TiB2@Ag Composite-Based Fabric with Broadband Solar Absorption for Efficient Anti-Icing and Photothermal De-Icing” Chemical Engineering Journal (2026) 
+<li>
+  “Bipolar Resistive Switching in 2D MoSe2 Grown by Atmospheric Pressure Chemical Vapor Deposition” ACS Applied Materials & Interfaces (2024)
+</li>
+ 
+<li>
+  “Sustainable MXene Membranes for Ion Sieving and Antibacterial Water Purification” Journal of Membrane Science (2026)
+</li>
+ 
+<li>
+  “Multifunctional Superhydrophobic TiB2@Ag Composite-Based Fabric with Broadband Solar Absorption for Efficient Anti-Icing and Photothermal De-Icing” Chemical Engineering Journal (2026) 
 </li>
 
 
