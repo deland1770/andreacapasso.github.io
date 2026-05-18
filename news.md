@@ -25,12 +25,12 @@ title: News
     </div>
 
     <!-- Imagem -->
-  <div style="flex:1; max-width:200px; height:200px; overflow:hidden;">
-    <a href="https://inl.int/inl-pi-co-leads-electronics-working-group-in-iam-i/" terget="_blank">
-      <img src="images/NEWS-Andrea.jpg" style="width:100%; height:100%; object-fit:cover;">
-    </div>
-    </a>
-  </div>
+<!-- Imagem -->
+<div style="flex:1; max-width:200px; height:200px; overflow:hidden;">
+  <a href="https://inl.int/inl-pi-co-leads-electronics-working-group-in-iam-i/" target="_blank">
+    <img src="images/NEWS-Andrea.jpg" style="width:100%; height:100%; object-fit:cover;">
+  </a>
+</div>
 
 
   <!-- NOTÍCIA 2 -->
