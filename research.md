@@ -44,9 +44,9 @@ Our group works across the full stack of two-dimensional (2D) materials: from sc
 <img src="images/Research.png" alt="2D crystal production">
 
 <h2>2D crystal production</h2>
-
+<img src="images/website_production.png">
 <p>
-We develop complementary routes to produce 2D materials in forms compatible with both electronic devices and membrane technologies. On the thin-film side, we use chemical vapour deposition (CVD) and are preparing metal–organic CVD (MOCVD) processes to grow wafer-scale 2D crystals and heterostructures with controlled thickness, grain structure, and doping. These films feed directly into our work on graphene-based transistors, memristors, and hybrid interfaces.
+We develop complementary routes to produce 2D materials in forms compatible with both electronic devices and membrane technologies. On the thin-film side, we use chemical vapor deposition (CVD) and are preparing metal–organic CVD (MOCVD) processes to grow wafer-scale 2D crystals and heterostructures with controlled thickness, grain structure, and doping. These films feed directly into our work on graphene-based transistors, memristors, and hybrid interfaces.
 </p>
 
 <p>
