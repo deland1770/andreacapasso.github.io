@@ -46,7 +46,9 @@ title: News
 
     <!-- Imagem -->
   <div style="flex:1; max-width:200px; height:200px; overflow:hidden;">
+    <a href="https://inl.int/inl-researcher-wins-sinano-best-paper-award-2025/" target="_blank">
       <img src="images/NEWS-Vicente.jpg" style="width:100%; height:100%; object-fit:cover;">
+       </a>
     </div>
 
   </div>
@@ -67,7 +69,9 @@ title: News
 
     <!-- Imagem -->
   <div style="flex:1; max-width:300px; height:200px; overflow:hidden;">
+    <a href="https://inl.int/new-sustainable-graphene-production/" target="_blank">
       <img src="images/siva_andrea_vicente2.jpg" style="width:100%; height:100%; object-fit:cover;">
+    </a>
     </div>
 
   </div>
