@@ -84,7 +84,7 @@ Beyond classical sensing, we explore hybrid interfaces where 2D materials couple
 <img src="images/memristors.png">
 
 <p>
-We work on neuromorphic hardware that combines 2D materials with memristive elements to emulate synaptic plasticity and circuit-level dynamics. A central line of research uses memristors and hybrid devices to model dentate gyrus–CA3 (DG–CA3) circuits in the hippocampus, in close connection with clinical collaborators and electrophysiology data.
+We work on neuromorphic hardware that combines 2D materials (i.e., transition metal dichalcogenides, hexagonal boron nitride) with memristive elements to emulate synaptic plasticity and circuit-level dynamics. Our ongoing efforts involve exploring different architectures (lateral, vertical, and heterostructures) to finely tune the performance metrics of the devices and to achieve reproducible technology with low device-to-device variability.
 </p>
 
 <p>
