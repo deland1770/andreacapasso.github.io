@@ -8,7 +8,7 @@ title: Research
 
 <style>
 .content {
-  max-width: 900px;
+  max-width: 1400px;
   margin: 0 auto;
 }
 
