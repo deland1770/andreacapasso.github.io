@@ -63,14 +63,6 @@ Editor / Diamond and Related Materials (Elsevier)
 
 </div>
 
-
-<div style="margin-top:40px;"></div>
-
-
-<div><strong>"Laurea"</strong> in Electronic Engineering (five-year coursework)</div>
-<div><em>University of Roma Tre – Rome, Italy</em></div>
-<div>Faculty of Engineering</div>
-
 <h2 style="text-align:left; margin-top:10px;">Professional Experience</h2>
 <hr style="margin-bottom:10px;">
 
