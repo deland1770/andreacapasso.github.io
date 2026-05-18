@@ -41,17 +41,48 @@ Institution / Years
 
 <div style="display:grid; grid-template-columns:120px 1fr; row-gap:6px; max-width:700px;">
 
-  <div>2024 – present</div>
-  <div>Research Scientist PI, INL</div>
 
-  <div>2021 – 2024</div>
-  <div>Researcher / Senior Scientist, INL</div>
+<div>Jan 2026 – present</div>
+<div>Editorial Board Member, Diamond and Related Materials (Elsevier)</div>
 
-  <div>2018 – 2021</div>
-  <div>Postdoctoral Researcher (specify)</div>
+<div>June 2025 – present</div>
+<div>Co-Lead, Working Group 4 (Electronics), IAM-I</div>
 
-  <div>2014 – 2018</div>
-  <div>Previous positions (optional)</div>
+<div>June 2025 – present</div>
+<div>Head of Laboratory "2D Crystal Fab", INL – Braga, Portugal</div>
+
+<div>Jan 2025 – present</div>
+<div>Coordinator, INL Transversal Line on Advanced Materials</div>
+
+<div>Oct 2024 – present</div>
+<div>Guest Lecturer, MSc "Nanodevices and Nanoelectronics", University of Minho</div>
+
+<div>July 2024 – present</div>
+<div>Tenured Research Scientist – Principal Investigator, INL – Braga, Portugal</div>
+
+<div>Nov 2020 – July 2024</div>
+<div>Staff Researcher – Principal Investigator (GEMIS Project), INL – Braga, Portugal</div>
+
+<div>Nov 2018 – Nov 2020</div>
+<div>Marie Curie Research Fellow, INL – Braga, Portugal (2D Materials and Devices)</div>
+
+<div>Mar 2018 – Nov 2018</div>
+<div>Research Scientist, Yonsei University – Seoul, Korea</div>
+
+<div>Oct 2014 – Dec 2017</div>
+<div>Researcher, Italian Institute of Technology – Genoa, Italy (Graphene Labs)</div>
+
+<div>May 2013 – Dec 2014</div>
+<div>Research Fellow, ENEA Casaccia Research Centre – Rome, Italy</div>
+
+<div>July 2011 – Oct 2012</div>
+<div>Postdoctoral Research Fellow, Queensland University of Technology – Brisbane, Australia</div>
+
+<div>Mar 2010 – July 2011</div>
+<div>Research Assistant, Queensland University of Technology – Brisbane, Australia</div>
+
+<div>Feb 2010 – Mar 2011</div>
+<div>Sessional Academic, Queensland University of Technology – Brisbane, Australia</div>
 
 </div>
 
