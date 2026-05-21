@@ -110,6 +110,9 @@ International Iberian Nanotechnology Laboratory (INL), Braga, Portugal
   “Multifunctional Superhydrophobic TiB2@Ag Composite-Based Fabric with Broadband Solar Absorption for Efficient Anti-Icing and Photothermal De-Icing” Chemical Engineering Journal (2026) 
 </li>
 
+<br>
+<br>
+<br>
 <p>Website under update, stay tuned!</p>
 
 
