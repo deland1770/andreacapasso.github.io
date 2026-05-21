@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Photo
+title: Photos
 ---
 
 <h1 style="text-align:center; margin-top:40px;">Group Photo</h1>
