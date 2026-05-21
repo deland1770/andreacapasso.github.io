@@ -10,7 +10,7 @@ title: 2D Crystal Fab
 <h1 style="margin-bottom:10px;">Andrea Capasso</h1>
 
 <p style="font-size:18px; margin:0;">
-<strong>Research Scientific</strong> – Principal Investigator
+<strong>Research Scientist</strong> – Principal Investigator
 
 </p>
 
@@ -27,7 +27,7 @@ International Iberian Nanotechnology Laboratory (INL), Braga, Portugal
 </p>
 <br>
 <p style="font-size:18px; margin:0;">
-<strong>Co-Lead / Working Group 4</strong> – Electronics, IAM-I
+<strong>Co-Lead</strong> / Working Group 4 – Electronics, IAM-I
 </p>
 <br>
 <p style="font-size:18px; margin:0;">
