@@ -20,7 +20,7 @@ title: 2D Crystal Fab
 </p>
 
 <p style="font-size:18px; margin:0;">
-<strong> Coordinator </strong> / INL Transversal Line on Advanced Materials
+<strong> Coordinator </strong> / Transversal Line on Advanced Materials
 </p>
 
 <p style="font-size:18px; margin:0;">
