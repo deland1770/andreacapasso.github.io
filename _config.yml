@@ -2,7 +2,8 @@ title: "Andrea Capasso"
 theme: minima
 header_pages:
   - research.md
-  - news.md
   - people.md
-  - photo.md
   - publications.md
+  - photo.md
+  - news.md
+
