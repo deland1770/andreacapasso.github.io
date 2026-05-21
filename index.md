@@ -69,11 +69,7 @@ Editor / Diamond and Related Materials (Elsevier)
 
 <div style="display:grid; grid-template-columns:auto 1fr; row-gap:6px; column-gap:48px; max-width:700px;">
 
-  <div style="text-align:justify; font-weight:bold;">2026 – present</div>
-  <div style="text-align:justify;">Elsevier / Editorial Board Member, Diamond and Related Materials </div>
-  <div style="text-align:justify; font-weight:bold;">2025 – present</div>
-  <div style="text-align:justify;">IAM-I / Co-Lead, Working Group 4 – Electronics </div>
-  <div style="text-align:justify; font-weight:bold;">2025 – present</div>
+
   <div style="text-align:justify;">INL / Head of Laboratory, 2D Crystal Fab</div>
   <div style="text-align:justify; font-weight:bold;">2025 – present</div>
   <div style="text-align:justify;">NL / Coordinator, Transversal Line on Advanced Materials</div>
