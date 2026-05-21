@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research PI
+title: Research
 ---
 
 <h1 style="text-align:center; margin-top:40px;">Research</h1>
