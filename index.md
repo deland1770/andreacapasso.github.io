@@ -10,7 +10,7 @@ title: 2D Crystal Fab
 <h1 style="margin-bottom:10px;">Andrea Capasso</h1>
 
 <p style="font-size:18px; margin:0;">
-<strong>Research Scientist</strong> – Principal Investigator
+<strong>Research Scientist – Principal Investigator </strong>
 
 </p>
 
