@@ -10,7 +10,7 @@ title: Andrea Capasso
 <h1 style="margin-bottom:10px;">Andrea Capasso</h1>
 
 <p style="font-size:18px; margin:0;">
-Research Scientific – Principal Investigator
+**Research Scientific** – Principal Investigator
 
 </p>
 
@@ -25,11 +25,11 @@ Coordinator / INL Transversal Line on Advanced Materials
 <p style="font-size:18px; margin:0;">
 International Iberian Nanotechnology Laboratory (INL), Braga, Portugal
 </p>
-
+<br>
 <p style="font-size:18px; margin:0;">
-Co-Lead / Working Group 4 – Electronics, IAM-I
+**Co-Lead / Working Group 4** – Electronics, IAM-I
 </p>
-
+<br>
 <p style="font-size:18px; margin:0;">
 Editor / Diamond and Related Materials (Elsevier)
 </p>
