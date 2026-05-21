@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Andrea Capasso
+title: 2D Crystal Fab
 ---
 
 <div style="text-align:center; margin-top:20px;">
