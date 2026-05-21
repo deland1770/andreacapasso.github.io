@@ -7,7 +7,7 @@ title: 2D Crystal Fab
 
 <img src="images/AC.jpg" alt="Andrea Capasso" style="width:200px; border-radius:50%; margin-bottom:20px;">
 
-<h1 style="margin-bottom:10px;">2D Crystal Fab</h1>
+<h1 style="margin-bottom:10px;">Andrea Capasso</h1>
 
 <p style="font-size:18px; margin:0;">
 <strong>Research Scientist</strong> – Principal Investigator
