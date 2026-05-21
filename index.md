@@ -15,11 +15,11 @@ title: Andrea Capasso
 </p>
 
 <p style="font-size:18px; margin:0;">
-Head of Laboratory / 2D Crystal Fab
+<strong> Head of Laboratory </strong> / 2D Crystal Fab
 </p>
 
 <p style="font-size:18px; margin:0;">
-Coordinator / INL Transversal Line on Advanced Materials
+<strong> Coordinator </strong> / INL Transversal Line on Advanced Materials
 </p>
 
 <p style="font-size:18px; margin:0;">
@@ -31,7 +31,7 @@ International Iberian Nanotechnology Laboratory (INL), Braga, Portugal
 </p>
 <br>
 <p style="font-size:18px; margin:0;">
-Editor / Diamond and Related Materials (Elsevier)
+<strong> Editor </strong> / Diamond and Related Materials (Elsevier)
 </p>
 
 <a href="mailto:andrea.capasso@inl.int">
