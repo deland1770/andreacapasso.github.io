@@ -71,23 +71,35 @@ International Iberian Nanotechnology Laboratory (INL), Braga, Portugal
 <div style="display:grid; grid-template-columns:auto 1fr; row-gap:6px; column-gap:48px; max-width:700px;">
 
 
-  <div style="text-align:justify;">INL / Head of Laboratory, 2D Crystal Fab</div>
-  <div style="text-align:justify; font-weight:bold;">2025 – present</div>
-  <div style="text-align:justify;">NL / Coordinator, Transversal Line on Advanced Materials</div>
-  <div style="text-align:justify; font-weight:bold;">2024 – present</div>
-  <div style="text-align:justify;">INL / Tenured Research Scientist – Principal Investigator</div>
-  <div style="text-align:justify; font-weight:bold;">2020 – 2024</div>
-  <div style="text-align:justify;">INL / Staff Researcher – Principal Investigator, GEMIS Project</div>
-  <div style="text-align:justify; font-weight:bold;">2018 – 2020</div>
-  <div style="text-align:justify;">INL / Marie Curie Research Fellow, 2D Materials and Devices </div>
-  <div style="text-align:justify; font-weight:bold;">2018</div>
-  <div style="text-align:justify;">Yonsei University / Research Scientist</div>
-  <div style="text-align:justify; font-weight:bold;"> 2014 – 2017</div>
-  <div style="text-align:justify;">Italian Institute of Technology / Researcher, Graphene Labs </div>
-  <div style="text-align:justify; font-weight:bold;">2013 – 2014</div>
-  <div style="text-align:justify;">ENEA Casaccia Research Centre / Research Fellow </div>
-  <div style="text-align:justify; font-weight:bold;">2011 – 2012</div>
-  <div style="text-align:justify;">Queensland University of Technology/Postdoctoral Research Fellow </div>
+  <div style="text-align:justify;">Diamond and Related Materials / Editor</div>
+<div style="text-align:justify; font-weight:bold;">2026 – present</div>
+
+<div style="text-align:justify;">INL / Head of Laboratory, 2D Crystal Fab</div>
+<div style="text-align:justify; font-weight:bold;">2025 – present</div>
+
+<div style="text-align:justify;">IAM-I / Co-Lead, Working Group 4 – Electronics</div>
+<div style="text-align:justify; font-weight:bold;">2025 – present</div>
+
+<div style="text-align:justify;">INL / Coordinator, Transversal Line on Advanced Materials</div>
+<div style="text-align:justify; font-weight:bold;">2025 – present</div>
+
+<div style="text-align:justify;">University of Minho / Guest Lecturer</div>
+<div style="text-align:justify; font-weight:bold;">2024 – present</div>
+
+<div style="text-align:justify;">INL / Research Scientist – Principal Investigator</div>
+<div style="text-align:justify; font-weight:bold;">2018 – present</div>
+
+<div style="text-align:justify;">Yonsei University / Research Scientist</div>
+<div style="text-align:justify; font-weight:bold;">2018</div>
+
+<div style="text-align:justify;">Italian Institute of Technology / Researcher, Graphene Labs</div>
+<div style="text-align:justify; font-weight:bold;">2014 – 2017</div>
+
+<div style="text-align:justify;">ENEA Casaccia Research Centre / Research Fellow</div>
+<div style="text-align:justify; font-weight:bold;">2013 – 2014</div>
+
+<div style="text-align:justify;">Queensland University of Technology / Postdoctoral Research Fellow</div>
+<div style="text-align:justify; font-weight:bold;">2011 – 2012</div>
 
 </div>
 
