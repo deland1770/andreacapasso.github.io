@@ -92,7 +92,7 @@ International Iberian Nanotechnology Laboratory (INL), Braga, Portugal
 <div style="text-align:justify;">Yonsei University / Research Scientist</div>
 <div style="text-align:justify; font-weight:bold;">2018</div>
 
-<div style="text-align:justify;">Italian Institute of Technology / Researcher, Graphene Labs</div>
+<div style="text-align:justify;">Italian Institute of Technology / Researcher</div>
 <div style="text-align:justify; font-weight:bold;">2014 – 2017</div>
 
 <div style="text-align:justify;">ENEA Casaccia Research Centre / Research Fellow</div>
