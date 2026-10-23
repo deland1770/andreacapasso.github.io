@@ -64,6 +64,14 @@ title: People
 
 <h2 style="text-align: center;">Researchers</h2>
 <br>
+
+<div class="people-grid-4">
+  <div class="person-card">
+    <img src="images/Siva.jpg">
+    <h4><b>Siva S. Nemala</b></h4>
+    <p class="small-text">Application & Systems Integration Engineer</p>
+  </div>
+  
 <div class="people-grid-3">
   <div class="person-card">
     <img src="images/SV.jpg">
@@ -110,13 +118,6 @@ title: People
 <br>
 <h2 style="text-align: center;">Former Members</h2>
 <br>
-<div class="people-grid-4">
-  <div class="person-card">
-    <img src="images/Siva.jpg">
-    <h4><b>Siva S. Nemala</b></h4>
-    <p class="small-text">Application & Systems Integration Engineer</p>
-  </div>
-
   <div class="person-card">
     <img src="images/Guilherme.jpg">
     <h4><b>Guilherme Araújo</b></h4>
