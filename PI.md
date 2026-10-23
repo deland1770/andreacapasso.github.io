@@ -76,7 +76,7 @@ International Iberian Nanotechnology Laboratory (INL), Braga, Portugal
 
   <div style="text-align:justify;">INL / Head of Laboratory, 2D Crystal Fab</div>
   <div style="text-align:justify; font-weight:bold;">2025 – present</div>
-  <div style="text-align:justify;">NL / Coordinator, Transversal Line on Advanced Materials</div>
+  <div style="text-align:justify;">INL / Coordinator, Transversal Line on Advanced Materials</div>
   <div style="text-align:justify; font-weight:bold;">2024 – present</div>
   <div style="text-align:justify;">INL / Tenured Research Scientist – Principal Investigator</div>
   <div style="text-align:justify; font-weight:bold;">2020 – 2024</div>
