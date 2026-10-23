@@ -153,7 +153,7 @@ title: Publications
 <p><b>4.</b> A. Capasso, L. Salamandra, A. Chou, A. Di Carlo and N. Motta, <em>"Multi-wall carbon nanotubes coating of fluorine-doped tin oxide as electrode surface modifier for polymer solar cells"</em>. Sol. Energ. Mat. Sol. Cells 122 (2014), 297-302.</p>
 
 <h4><b>2013</b></h4>
-<p><b>3.</b> G. Faggio, A. Capasso, S. Santangelo, T. Dikonimos, S. Gagliardi, R. Giorgi, V. Morandi, L. Ortolani, G. Messina, N. Lisi, <em>"High temperature growth of graphene films on copper foils by ethanol chemical vapour deposition"</em>. Journal of Physycal Chemistry C 117 (2013), 21569-21576.</p>
+<p><b>3.</b> G. Faggio, A. Capasso, S. Santangelo, T. Dikonimos, S. Gagliardi, R. Giorgi, V. Morandi, L. Ortolani, G. Messina, N. Lisi, <em>"High temperature growth of graphene films on copper foils by ethanol chemical vapour deposition"</em>. Journal of Physical Chemistry C 117 (2013), 21569-21576.</p>
 
 <p><b>2.</b> L. Persichetti, A. Capasso, A. Sgarlata, A. Quatela, S. Kaciulis, A. Mezzi, M. Notarianni, N. Motta, M. Fanfoni, and A. Balzarotti, <em>"Fabrication of SiGe rings and holes on Si(001) by flash annealing"</em>. Applied Surface Science 283 (2013), 813-819.</p>
 <p><b>1.</b> F. Matteocci, G. Mincuzzi, F. Giordano, A. Capasso, E. Artuso, C. Barolo, G. Viscardi, T.M. Brown, A. Reale and A. Di Carlo, <em>"Blocking Layer Optimization of poly(3-hexylthiopene) based Solid State Dye Sensitized Solar Cells”</em>. Organic Electronics 14 (2013), 1882-1890.</p>
