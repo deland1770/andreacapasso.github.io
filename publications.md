@@ -77,7 +77,7 @@ title: Publications
 <p><b>60.</b> Nuno Silva, INL and University of Minho (UM), <em>"Textile based electrodes for electrochemical capacitors"</em>, MSc thesis, ongoing. Supervisors: Andrea Capasso, Antonio Paleo (UM).</p>
 
 <h4><b>2023</b></h4>
-<p><b>59.</b> J. Fernandes, J. Grzonka, G. Araújo, A. Schulman, V. Silva, J. Rodrigues, J. Santos, O. Bondarchuk, P. Ferreira, P. Alpuim, A. Capasso, <em>"Bipolar Resistive Switching in 2D MoSe2 Grown by Atmospheric Pressure Chemical Vapor Deposition"</em>. ACS Applied Materials and Interfaces 16 (2023), 1767.</p>
+<p><b>59.</b> J. Fernandes, J. Grzonka, G. Araújo, A. Schulman, V. Silva, J. Rodrigues, J. Santos, O. Bondarchuk, P. Ferreira, P. Alpuim, A. Capasso, <em>"Bipolar Resistive Switching in 2D MoSe2 Grown by Atmospheric Pressure Chemical Vapor Deposition"</em>. ACS Applied Materials and Interfaces 16 (2024), 1767.</p>
 <p><b>58.</b> M.J. Kim, G. Moreira, N. Lisi, N. Kim, W. Shim., G.H. Lee, A. Capasso, <em>"Solvent-free transfer of monolayer graphene with recrystallized cyclododecane"</em>. Applied Physics Letters 123 (2023), 211602.</p>
 <p><b>57.</b> E. Napolitani, M. Perego, A. Capasso, J. McCallum, <em>"Doping at the Nanoscale: New Challenges and Advanced Applications"</em>, Materials Science in Semiconductor Processing 167 (2023), 107755.</p>
 <p><b>56.</b> R.M. Pinto, S.S. Nemala, M. Faraji, J. Fernandes, C. Ponte, G. De Bellis, A. Retolaza, K.B. Vinayakumar, A. Capasso, <em>"Material jetting of carbon nano onions for printed electronics"</em>. Nanotechnology 34 (2023), 365710.</p>
