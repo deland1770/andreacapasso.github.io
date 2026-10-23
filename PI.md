@@ -3,7 +3,7 @@ layout: default
 title: PI
 ---
 
-<h1 style="text-align:center; margin-top:40px;">Primary Investigator</h1>
+<h1 style="text-align:center; margin-top:40px;">Principal Investigator</h1>
 <hr style="margin-bottom:40px;">
 
 <div style="text-align:center; margin-top:20px;">
