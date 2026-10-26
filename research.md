@@ -86,7 +86,7 @@ Additionally, our group focuses on strain sensing through flexible and wearable 
 
 <h2>Neuromorphic devices and hybrid memory interfaces</h2>
 
-<img src="images/memristors.png">
+<img src="images/NEUROMORPHIC WEBSITE.png">
 
 <p>
 We work on neuromorphic hardware that combines 2D materials (i.e., transition metal dichalcogenides, hexagonal boron nitride) with memristive elements to emulate synaptic plasticity and circuit-level dynamics. Our ongoing efforts involve exploring different architectures (lateral, vertical, and heterostructures) and different 2D material production techniques (CVD, electrochemical exfoliation) to finely tune the performance metrics of the devices and to achieve reproducible technology with low device-to-device variability.
