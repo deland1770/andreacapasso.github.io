@@ -12,16 +12,17 @@
         </span>
       </label>
 
-      <div class="trigger custom-menu-container">
+      <div class="trigger custom-nav-bar">
         <a class="page-link" href="{{ '/research' | relative_url }}">Research</a>
+        <a class="page-link" href="{{ '/PI' | relative_url }}">PI</a>
 
-        <!-- DROPDOWN DE PEOPLE -->
+        <!-- DROPDOWN -->
         <div class="custom-dropdown">
-          <a class="page-link custom-dropbtn" href="{{ '/PI' | relative_url }}">People &#9662;</a>
-          <div class="custom-dropdown-content">
-            <a href="{{ '/PI' | relative_url }}">Principal Investigator</a>
-            <a href="{{ '/members' | relative_url }}">Members</a>
-            <a href="{{ '/former-members' | relative_url }}">Former Members</a>
+          <a class="page-link" href="{{ '/people' | relative_url }}">People &#9662;</a>
+          <div class="custom-dropdown-menu">
+            <a href="{{ '/people#researchers' | relative_url }}">Researchers</a>
+            <a href="{{ '/people#students' | relative_url }}">Students</a>
+            <a href="{{ '/people#former-members' | relative_url }}">Former Members</a>
           </div>
         </div>
 
@@ -34,57 +35,58 @@
 </header>
 
 <style>
-/* Força o menu a ficar todo alinhado na horizontal */
-.custom-menu-container {
+/* Keeps all header links horizontally aligned */
+.custom-nav-bar {
   display: flex !important;
-  align-items: center !important;
-  gap: 15px !important;
   flex-direction: row !important;
+  align-items: center !important;
+  gap: 12px !important;
 }
 
-.custom-menu-container .page-link {
+.custom-nav-bar .page-link {
   margin-left: 0 !important;
 }
 
-/* Container do dropdown */
+/* Dropdown Wrapper */
 .custom-dropdown {
   position: relative !important;
   display: inline-block !important;
 }
 
-/* Janela suspensa (Escondida por padrão) */
-.custom-dropdown-content {
+/* Dropdown Window Container - Size Adjustments */
+.custom-dropdown-menu {
   display: none;
   position: absolute !important;
   top: 100% !important;
   left: 0 !important;
   background-color: #ffffff !important;
-  min-width: 170px !important;
-  box-shadow: 0px 8px 16px rgba(0,0,0,0.15) !important;
-  border-radius: 4px !important;
+  min-width: 120px !important;            /* ADJUST WIDTH HERE */
+  padding: 2px 0 !important;              /* CONTAINER TOP/BOTTOM PADDING */
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.15) !important;
   border: 1px solid #e1e1e1 !important;
-  padding: 6px 0 !important;
+  border-radius: 4px !important;
   z-index: 9999 !important;
 }
 
-/* Links dentro da janela suspensa */
-.custom-dropdown-content a {
+/* Individual Links Inside Dropdown - Size Adjustments */
+.custom-dropdown-menu a {
   color: #333333 !important;
-  padding: 8px 16px !important;
+  padding: 4px 10px !important;           /* LINK BUTTON SIZE (TOP/BOTTOM LEFT/RIGHT) */
+  font-size: 12px !important;             /* FONT SIZE */
+  line-height: 1.2 !important;
   text-decoration: none !important;
   display: block !important;
-  font-size: 14px !important;
-  text-align: left !important;
   white-space: nowrap !important;
+  text-align: left !important;
 }
 
-.custom-dropdown-content a:hover {
-  background-color: #f5f5f5 !important;
+.custom-dropdown-menu a:hover {
+  background-color: #f0f0f0 !important;
   color: #000000 !important;
 }
 
-/* Mostra a janela suspensa quando passa o rato por cima */
-.custom-dropdown:hover .custom-dropdown-content {
+/* Show Dropdown on Hover */
+.custom-dropdown:hover .custom-dropdown-menu {
   display: block !important;
 }
 </style>
