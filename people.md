@@ -136,7 +136,7 @@ title: People
 </div>
 
 <br>
-<h2 style="text-align: center;">Students</h2>
+<h2 style="text-align: center;">Graduate</h2>
 <br>
 
 <div class="people-grid-2">
