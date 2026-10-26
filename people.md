@@ -106,7 +106,7 @@ title: People
 }
 </style>
 
-<h2 style="text-align: center;">Researchers</h2>
+<h2 id="Researchers" style="text-align: center;">Researchers</h2>
 <br>
 
 <div class="people-grid-4">
@@ -136,7 +136,8 @@ title: People
 </div>
 
 <br>
-<h2 style="text-align: center;">Graduate</h2>
+
+<h2 id="Graduate" style="text-align: center;">Graduate</h2>
 <br>
 
 <div class="people-grid-2">
@@ -154,7 +155,7 @@ title: People
 </div>
 
 <br>
-<h2 style="text-align: center;">Former Members</h2>
+<h2 id="Former Members" style="text-align: center;">Former Members</h2>
 <br>
 
 <div class="people-grid-3">
