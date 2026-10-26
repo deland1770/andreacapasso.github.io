@@ -139,17 +139,11 @@ title: People
 <h2 style="text-align: center;">Students</h2>
 <br>
 
-<div class="people-grid-3">
+<div class="people-grid-2">
   <div class="person-card person-card-md">
     <img src="images/Vicente.jpg" alt="Vicente Lopes">
     <h4><b>Vicente Lopes</b></h4>
     <p class="small-text">Ph.D. Course</p>
-  </div>
-
-  <div class="person-card person-card-md">
-    <img src="images/Pedro.jpg" alt="Pedro Silva">
-    <h4><b>Pedro Silva</b></h4>
-    <p class="small-text">Masters Course</p>
   </div>
 
   <div class="person-card person-card-md">
@@ -163,7 +157,7 @@ title: People
 <h2 style="text-align: center;">Former Members</h2>
 <br>
 
-<div class="people-grid-5">
+<div class="people-grid-3">
   <div class="person-card person-card-sm">
     <img src="images/Guilherme.jpg" alt="Guilherme Araújo">
     <h4><b>Guilherme Araújo</b></h4>
@@ -181,7 +175,10 @@ title: People
     <h4><b>João Fernandes</b></h4>
     <p class="small-text">Masters Course</p>
   </div>
+  
+</div>
 
+<div class="people-grid-3">
   <div class="person-card person-card-sm">
     <img src="images/GabrielM.png" alt="Gabriel Moreira">
     <h4><b>Gabriel Moreira</b></h4>
@@ -191,6 +188,12 @@ title: People
   <div class="person-card person-card-sm">
     <img src="images/Tiago.jpg" alt="Tiago Abreu">
     <h4><b>Tiago Abreu</b></h4>
+    <p class="small-text">Masters Course</p>
+  </div>
+
+  <div class="person-card person-card-md">
+    <img src="images/Pedro.jpg" alt="Pedro Silva">
+    <h4><b>Pedro Silva</b></h4>
     <p class="small-text">Masters Course</p>
   </div>
 </div>
