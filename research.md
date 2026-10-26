@@ -57,6 +57,7 @@ In parallel, we employ liquid-phase exfoliation (LPE) to generate inks and lamin
 <hr>
 
 <h2>Nanofiltration membranes and blue energy</h2>
+<img src="images/MEMBRANES WEBSITE.png">
 
 <p>
 We design nanofiltration membranes based on stacked graphene and MXene flakes, where ion transport is governed by sub-nanometre interlayer spacing and surface charge. By engineering flake morphology, functional groups, and support choice, we target high water permeance, sharp ion sieving, and resistance to fouling for desalination and water purification.
