@@ -59,7 +59,7 @@ title: Former Members
 .people-grid-3 {
   display: grid;
   grid-template-columns: repeat(3, 160px);
-  gap: 36px;
+  gap: 50px;
   justify-content: center;
 }
 
