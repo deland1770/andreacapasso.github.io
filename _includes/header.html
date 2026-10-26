@@ -12,17 +12,17 @@
         </span>
       </label>
 
-      <div class="trigger">
+      <div class="trigger custom-menu-container">
         <a class="page-link" href="{{ '/research' | relative_url }}">Research</a>
         <a class="page-link" href="{{ '/PI' | relative_url }}">PI</a>
 
-        <!-- DROPDOWN FOR PEOPLE -->
-        <div class="nav-dropdown">
-          <a class="page-link dropbtn" href="{{ '/people' | relative_url }}">People &#9662;</a>
-          <div class="dropdown-content">
-            <a href="{{ '/people/researchers' | relative_url }}">Researchers</a>
-            <a href="{{ '/people/students' | relative_url }}">Students</a>
-            <a href="{{ '/people/former' | relative_url }}">Former Members</a>
+        <!-- DROPDOWN DE PEOPLE -->
+        <div class="custom-dropdown">
+          <a class="page-link custom-dropbtn" href="{{ '/people' | relative_url }}">People &#9662;</a>
+          <div class="custom-dropdown-content">
+            <a href="{{ '/people#researchers' | relative_url }}">Researchers</a>
+            <a href="{{ '/people#students' | relative_url }}">Students</a>
+            <a href="{{ '/people#former-members' | relative_url }}">Former Members</a>
           </div>
         </div>
 
@@ -33,3 +33,59 @@
     </nav>
   </div>
 </header>
+
+<style>
+/* Força o menu a ficar todo alinhado na horizontal */
+.custom-menu-container {
+  display: flex !important;
+  align-items: center !important;
+  gap: 15px !important;
+  flex-direction: row !important;
+}
+
+.custom-menu-container .page-link {
+  margin-left: 0 !important;
+}
+
+/* Container do dropdown */
+.custom-dropdown {
+  position: relative !important;
+  display: inline-block !important;
+}
+
+/* Janela suspensa (Escondida por padrão) */
+.custom-dropdown-content {
+  display: none;
+  position: absolute !important;
+  top: 100% !important;
+  left: 0 !important;
+  background-color: #ffffff !important;
+  min-width: 170px !important;
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.15) !important;
+  border-radius: 4px !important;
+  border: 1px solid #e1e1e1 !important;
+  padding: 6px 0 !important;
+  z-index: 9999 !important;
+}
+
+/* Links dentro da janela suspensa */
+.custom-dropdown-content a {
+  color: #333333 !important;
+  padding: 8px 16px !important;
+  text-decoration: none !important;
+  display: block !important;
+  font-size: 14px !important;
+  text-align: left !important;
+  white-space: nowrap !important;
+}
+
+.custom-dropdown-content a:hover {
+  background-color: #f5f5f5 !important;
+  color: #000000 !important;
+}
+
+/* Mostra a janela suspensa quando passa o rato por cima */
+.custom-dropdown:hover .custom-dropdown-content {
+  display: block !important;
+}
+</style>
