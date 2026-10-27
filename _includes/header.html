@@ -35,12 +35,22 @@
 </header>
 
 <style>
-
+/* Responsive Site Wrapper */
 .wrapper {
-  max-width: 1100px !important; /* Increase from 800px to 1100px (or 1200px / 90%) */
+  max-width: 1100px !important;
+  width: 100% !important;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+  box-sizing: border-box !important;
 }  
 
-/* Keeps all header links horizontally aligned */
+/* Global rule to prevent any image from causing horizontal scrolling */
+img {
+  max-width: 100% !important;
+  height: auto;
+}
+
+/* Horizontal alignment for desktop navigation */
 .custom-nav-bar {
   display: flex !important;
   flex-direction: row !important;
@@ -65,7 +75,7 @@
   top: 100% !important;
   left: 0 !important;
   background-color: #ffffff !important;
-  min-width: 140px !important;
+  min-width: 150px !important;
   padding: 4px 0 !important;
   box-shadow: 0px 4px 12px rgba(0,0,0,0.15) !important;
   border: 1px solid #e1e1e1 !important;
@@ -73,10 +83,10 @@
   z-index: 9999 !important;
 }
 
-/* Individual Links Inside Dropdown - Font matched to header */
+/* Individual Links Inside Dropdown */
 .custom-dropdown-menu a {
-  font-family: inherit !important;        /* Inherits font style from main site header */
-  font-weight: inherit !important;        /* Inherits font weight */
+  font-family: inherit !important;
+  font-weight: inherit !important;
   color: #333333 !important;
   padding: 6px 12px !important;
   font-size: 13px !important;
@@ -95,5 +105,22 @@
 /* Show Dropdown on Hover */
 .custom-dropdown:hover .custom-dropdown-menu {
   display: block !important;
+}
+
+/* MOBILE RESPONSIVE MEDIA QUERY */
+@media (max-width: 600px) {
+  /* Stacks navigation elements neatly when hamburger menu is toggled */
+  .custom-nav-bar {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 8px !important;
+  }
+  
+  .custom-dropdown-menu {
+    position: static !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding-left: 10px !important;
+  }
 }
 </style>
