@@ -7,13 +7,14 @@ title: Members
 
 <hr style="margin-bottom:40px;">
 
-<!-- Container set to 1000px max-width, fully responsive -->
-<div style="max-width:1000px; width:100%; margin:0 auto; padding: 0 15px; box-sizing: border-box;">
+<!-- Container set to 1100px max-width, fully responsive -->
+<div style="max-width:1100px; width:100%; margin:0 auto; padding: 0 15px; box-sizing: border-box;">
 
 <style>
 .small-text {
-  font-size: 13px;
-  line-height: 1.3;
+  font-size: 15px;
+  line-height: 1.35;
+  color: #555;
 }
 
 .person-card {
@@ -21,80 +22,88 @@ title: Members
   width: 100%;
 }
 
-/* Card layout for 2, 3 & 4 items per row */
+.person-card h4 {
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+/* Card layout for 2, 3 & 4 items per row (LARGER DESKTOP SIZING) */
 .person-card-md {
-  max-width: 160px;
+  max-width: 200px;
   margin: 0 auto;
 }
 
 .person-card-md img {
+  width: 180px;
+  max-width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 12px auto;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+/* Card layout for 5 items per row */
+.person-card-sm {
+  max-width: 170px;
+  margin: 0 auto;
+}
+
+.person-card-sm img {
   width: 150px;
   max-width: 100%;
   height: 150px;
   object-fit: cover;
   border-radius: 50%;
   display: block;
-  margin: 0 auto 10px auto;
-}
-
-/* Card layout for 5 items per row */
-.person-card-sm {
-  max-width: 130px;
-  margin: 0 auto;
-}
-
-.person-card-sm img {
-  width: 120px;
-  max-width: 100%;
-  height: 120px;
-  object-fit: cover;
-  border-radius: 50%;
-  display: block;
-  margin: 0 auto 10px auto;
+  margin: 0 auto 12px auto;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
 }
 
 /* Grids for fixed counts per row on desktop */
 .people-grid-2 {
   display: grid;
-  grid-template-columns: repeat(2, 160px);
-  gap: 30px;
+  grid-template-columns: repeat(2, 200px);
+  gap: 40px;
   justify-content: center;
 }
 
 .people-grid-3 {
   display: grid;
-  grid-template-columns: repeat(3, 160px);
-  gap: 30px;
+  grid-template-columns: repeat(3, 200px);
+  gap: 40px;
   justify-content: center;
 }
 
 .people-grid-4 {
   display: grid;
-  grid-template-columns: repeat(4, 160px);
-  gap: 24px;
+  grid-template-columns: repeat(4, 200px);
+  gap: 32px;
   justify-content: center;
 }
 
 .people-grid-5 {
   display: grid;
-  grid-template-columns: repeat(5, 130px);
-  gap: 20px;
+  grid-template-columns: repeat(5, 170px);
+  gap: 24px;
   justify-content: center;
 }
 
-/* STEP 3 RESPONSIVE FIXES FOR MOBILE & TABLETS */
-@media (max-width: 850px) {
+/* TABLET RESPONSIVE FIXES */
+@media (max-width: 900px) {
   .people-grid-2,
   .people-grid-3,
   .people-grid-4,
   .people-grid-5 {
-    grid-template-columns: repeat(3, minmax(130px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(3, minmax(160px, 1fr));
+    gap: 25px;
   }
 }
 
+/* MOBILE RESPONSIVE ENHANCEMENTS */
 @media (max-width: 600px) {
-  /* Switch to 1 card per row on mobile to give maximum room */
   .people-grid-2,
   .people-grid-3,
   .people-grid-4,
@@ -103,32 +112,20 @@ title: Members
     gap: 35px !important;
   }
   
-  /* Increase avatar image sizes on mobile */
   .person-card-md img,
   .person-card-sm img {
-    width: 160px !important;
-    height: 160px !important;
+    width: 180px !important;
+    height: 180px !important;
   }
 
-  /* Increase name and title sizes for easy reading */
   .person-card h4 {
-    font-size: 18px !important;
-    margin-top: 8px !important;
+    font-size: 19px !important;
+    margin-top: 10px !important;
     margin-bottom: 4px !important;
   }
 
   .small-text {
     font-size: 15px !important;
-  }
-}  
-
-@media (max-width: 400px) {
-  .people-grid-2,
-  .people-grid-3,
-  .people-grid-4,
-  .people-grid-5 {
-    grid-template-columns: 1fr;
-    gap: 20px;
   }
 }
 </style>
@@ -162,7 +159,7 @@ title: Members
   </div>
 </div>
 
-<br>
+<br><br>
 
 <h2 id="Graduate" style="text-align: center;">Graduate</h2>
 <br>
