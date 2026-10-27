@@ -14,7 +14,6 @@
 
       <div class="trigger custom-nav-bar">
         <a class="page-link" href="{{ '/research' | relative_url }}">Research</a>
-        <!--<a class="page-link" href="{{ '/PI' | relative_url }}">PI</a>-->
 
         <!-- DROPDOWN -->
         <div class="custom-dropdown">
@@ -27,7 +26,6 @@
         </div>
 
         <a class="page-link" href="{{ '/publications' | relative_url }}">Publications</a>
-        <!--<a class="page-link" href="{{ '/photo' | relative_url }}">Photos</a>-->
         <a class="page-link" href="{{ '/news' | relative_url }}">News</a>
       </div>
     </nav>
@@ -50,40 +48,44 @@ img {
   height: auto;
 }
 
-/* Horizontal alignment for desktop navigation */
-.custom-nav-bar {
-  display: flex !important;
-  flex-direction: row !important;
-  align-items: center !important;
-  gap: 12px !important;
+/* DESKTOP STYLES (Screen widths larger than 600px) */
+@media (min-width: 601px) {
+  .custom-nav-bar {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    gap: 12px !important;
+  }
+
+  .custom-nav-bar .page-link {
+    margin-left: 0 !important;
+  }
+
+  .custom-dropdown {
+    position: relative !important;
+    display: inline-block !important;
+  }
+
+  .custom-dropdown-menu {
+    display: none;
+    position: absolute !important;
+    top: 100% !important;
+    left: 0 !important;
+    background-color: #ffffff !important;
+    min-width: 150px !important;
+    padding: 4px 0 !important;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.15) !important;
+    border: 1px solid #e1e1e1 !important;
+    border-radius: 4px !important;
+    z-index: 9999 !important;
+  }
+
+  .custom-dropdown:hover .custom-dropdown-menu {
+    display: block !important;
+  }
 }
 
-.custom-nav-bar .page-link {
-  margin-left: 0 !important;
-}
-
-/* Dropdown Wrapper */
-.custom-dropdown {
-  position: relative !important;
-  display: inline-block !important;
-}
-
-/* Dropdown Window Container */
-.custom-dropdown-menu {
-  display: none;
-  position: absolute !important;
-  top: 100% !important;
-  left: 0 !important;
-  background-color: #ffffff !important;
-  min-width: 150px !important;
-  padding: 4px 0 !important;
-  box-shadow: 0px 4px 12px rgba(0,0,0,0.15) !important;
-  border: 1px solid #e1e1e1 !important;
-  border-radius: 4px !important;
-  z-index: 9999 !important;
-}
-
-/* Individual Links Inside Dropdown */
+/* SHARED DROPDOWN LINK STYLES */
 .custom-dropdown-menu a {
   font-family: inherit !important;
   font-weight: inherit !important;
@@ -102,25 +104,26 @@ img {
   color: #000000 !important;
 }
 
-/* Show Dropdown on Hover */
-.custom-dropdown:hover .custom-dropdown-menu {
-  display: block !important;
-}
-
-/* MOBILE RESPONSIVE MEDIA QUERY */
+/* MOBILE RESPONSIVE STYLES (Screen widths 600px and below) */
 @media (max-width: 600px) {
-  /* Stacks navigation elements neatly when hamburger menu is toggled */
-  .custom-nav-bar {
-    flex-direction: column !important;
-    align-items: flex-start !important;
-    gap: 8px !important;
+  /* Allow Minima to hide menu by default and toggle with checkbox */
+  .custom-dropdown {
+    display: block !important;
   }
-  
+
+  /* Make dropdown options expand neatly inside the mobile drawer */
   .custom-dropdown-menu {
     position: static !important;
     box-shadow: none !important;
     border: none !important;
-    padding-left: 10px !important;
+    padding-left: 15px !important;
+    background-color: transparent !important;
+  }
+
+  /* Keep dropdown items visible in the expanded mobile menu */
+  .custom-dropdown:hover .custom-dropdown-menu,
+  .custom-dropdown-menu {
+    display: block !important;
   }
 }
 </style>
