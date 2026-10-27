@@ -115,11 +115,11 @@ title: 2D Crystal Fab
       <img src="images/Cover_Advanced.jpg" alt="Photo 1" onclick="openLightbox(this.src)">
     </div>
 
-  <div class="mySlides fade">
+    <div class="mySlides fade">
       <img src="images/photo2.jpg" alt="Photo 2" onclick="openLightbox(this.src)">
     </div>
 
-  <div class="mySlides fade">
+    <div class="mySlides fade">
       <img src="images/photo3.jpg" alt="Photo 3" onclick="openLightbox(this.src)">
     </div>
   </div>
@@ -187,10 +187,9 @@ function closeLightbox() {
 }
 </script>
 
-
-
-<!-- AUTOMATIC LATEST NEWS SECTION -->
-<!--<h2 style="text-align:left; margin-top:30px;"><b>Latest News</b></h2>
+{% comment %}
+<!-- AUTOMATIC LATEST NEWS SECTION (COMMENTED OUT) -->
+<h2 style="text-align:left; margin-top:30px;"><b>Latest News</b></h2>
 <hr style="margin-bottom:20px;">
 
 <div style="max-width:1100px; margin:0 auto;">
@@ -211,11 +210,7 @@ function closeLightbox() {
     </div>
     {% endif %}
 
-<!--  </div>
+  </div>
   {% endfor %}
 </div>
-
-
-
-
-
+{% endcomment %}
