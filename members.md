@@ -7,8 +7,8 @@ title: Members
 
 <hr style="margin-bottom:40px;">
 
-<!-- Container set to 1000px to give 5 items comfortable breathing room -->
-<div style="max-width:1000px; margin:0 auto; padding: 0 20px;">
+<!-- Container set to 1000px max-width, fully responsive -->
+<div style="max-width:1000px; width:100%; margin:0 auto; padding: 0 15px; box-sizing: border-box;">
 
 <style>
 .small-text {
@@ -18,15 +18,18 @@ title: Members
 
 .person-card {
   text-align: center;
+  width: 100%;
 }
 
 /* Card layout for 2, 3 & 4 items per row */
 .person-card-md {
-  width: 160px;
+  max-width: 160px;
+  margin: 0 auto;
 }
 
 .person-card-md img {
   width: 150px;
+  max-width: 100%;
   height: 150px;
   object-fit: cover;
   border-radius: 50%;
@@ -36,11 +39,13 @@ title: Members
 
 /* Card layout for 5 items per row */
 .person-card-sm {
-  width: 130px;
+  max-width: 130px;
+  margin: 0 auto;
 }
 
 .person-card-sm img {
   width: 120px;
+  max-width: 100%;
   height: 120px;
   object-fit: cover;
   border-radius: 50%;
@@ -48,7 +53,7 @@ title: Members
   margin: 0 auto 10px auto;
 }
 
-/* Grids for fixed counts per row */
+/* Grids for fixed counts per row on desktop */
 .people-grid-2 {
   display: grid;
   grid-template-columns: repeat(2, 160px);
@@ -77,13 +82,14 @@ title: Members
   justify-content: center;
 }
 
-/* Responsive collapse on smaller screens */
+/* STEP 3 RESPONSIVE FIXES FOR MOBILE & TABLETS */
 @media (max-width: 850px) {
   .people-grid-2,
   .people-grid-3,
   .people-grid-4,
   .people-grid-5 {
-    grid-template-columns: repeat(3, 150px);
+    grid-template-columns: repeat(3, minmax(130px, 1fr));
+    gap: 20px;
   }
 }
 
@@ -92,7 +98,14 @@ title: Members
   .people-grid-3,
   .people-grid-4,
   .people-grid-5 {
-    grid-template-columns: repeat(2, 140px);
+    grid-template-columns: repeat(2, minmax(120px, 1fr));
+    gap: 15px;
+  }
+  
+  .person-card-md img,
+  .person-card-sm img {
+    width: 110px;
+    height: 110px;
   }
 }
 
@@ -102,6 +115,7 @@ title: Members
   .people-grid-4,
   .people-grid-5 {
     grid-template-columns: 1fr;
+    gap: 20px;
   }
 }
 </style>
@@ -154,5 +168,4 @@ title: Members
   </div>
 </div>
 
-
-
+</div>
