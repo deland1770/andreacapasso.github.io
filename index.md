@@ -115,11 +115,11 @@ title: 2D Crystal Fab
       <img src="images/Cover_Advanced.jpg" alt="Photo 1" onclick="openLightbox(this.src)">
     </div>
 
-    <div class="mySlides fade">
-      <img src="images/photo2.jpg" alt="Photo 2" onclick="openLightbox(this.src)">
+  <div class="mySlides fade">
+      <img src="images/SEM_MoS2.tif" alt="Photo 2" onclick="openLightbox(this.src)">
     </div>
 
-    <div class="mySlides fade">
+  <div class="mySlides fade">
       <img src="images/photo3.jpg" alt="Photo 3" onclick="openLightbox(this.src)">
     </div>
   </div>
