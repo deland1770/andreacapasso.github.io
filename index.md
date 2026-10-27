@@ -112,7 +112,7 @@ title: 2D Crystal Fab
   <!-- LEFT: SLIDESHOW CONTAINER -->
   <div class="slideshow-container">
     <div class="mySlides fade">
-      <img src="images/Cover_Advanced.jpg" alt="Photo 1" onclick="openLightbox(this.src)">
+      <img src="images/2Dfab.png" alt="Photo 1" onclick="openLightbox(this.src)">
     </div>
 
   <div class="mySlides fade">
