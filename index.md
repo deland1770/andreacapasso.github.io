@@ -84,7 +84,7 @@ title: 2D Crystal Fab
     </div>
 
   <div class="mySlides fade">
-      <img src="images/photo3.jpg" alt="Photo 3">
+      <img src="images/Adv Funct Materials - 2026 - Lopes - Electrochemical Metallization Memristors From Bulk to 2D Materials Adv Funct Mater.jpg" alt="Photo 3">
     </div>
   </div>
 
