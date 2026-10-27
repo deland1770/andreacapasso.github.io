@@ -128,7 +128,7 @@ function showSlides() {
 <h2 style="text-align:left; margin-top:30px;">Latest News</h2>
 <hr style="margin-bottom:20px;">
 
-<div style="max-width:1000px; margin:0 auto;">
+<div style="max-width:1100px; margin:0 auto;">
   {% for item in site.data.news limit:3 %}
   <div style="display:flex; align-items:center; gap:30px; margin-bottom:30px; border-bottom:1px solid #eee; padding-bottom:20px;">
     <!-- Text -->
