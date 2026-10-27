@@ -45,6 +45,7 @@ The 2D Crystal Fab works across the full stack of two-dimensional (2D) materials
 <img src="images/Research.png" alt="2D crystal production">
 
 <h2>2D crystal production</h2>
+<hr>
 <img src="images/website_production .png">
 <p>
 We develop complementary routes to produce 2D materials in forms compatible with both electronic devices and membrane technologies. On the thin-film side, we use chemical vapor deposition (CVD) and are preparing metal–organic CVD (MOCVD) processes to grow wafer-scale 2D crystals and heterostructures with controlled thickness, grain structure, and doping. These films feed directly into our work on graphene-based transistors, memristors, and hybrid interfaces.
@@ -54,9 +55,10 @@ We develop complementary routes to produce 2D materials in forms compatible with
 In parallel, we employ liquid-phase exfoliation (LPE) to generate inks and laminates of graphene, MXenes, and related 2D materials. By controlling flake size, thickness, and defect density, we can tune percolation pathways, mechanical robustness, and transport properties in membranes and printed devices. A key emphasis is on green solvents and surfactants that allow scalable, environmentally responsible processing.
 </p>
 
-<hr>
+
 
 <h2>Nanofiltration membranes and blue energy</h2>
+<hr>
 <img src="images/MEMBRANES_WEBSITE.png">
 
 <p>
@@ -67,9 +69,10 @@ We design nanofiltration membranes based on stacked graphene and MXene flakes, w
 The same membranes are used as nanofluidic systems for blue energy harvesting, where salinity gradients across charged nanochannels generate electrical power. We study how interlayer spacing, charge density, and ion valence affect osmotic energy conversion, with the goal of coupling selective membranes to practical electrochemical architectures.
 </p>
 
-<hr>
+
 
 <h2>Sensing and bioelectronic interfaces</h2>
+<hr>
 <img src="images/SENSING AND BIOELECTRONICS WEBSITE.png">
 <p>
 We develop graphene field-effect transistor (GFET) platforms and related 2D devices for chemical and biological sensing. Our work links surface chemistry, Debye screening, and device geometry to sensitivity and selectivity, enabling real-time detection of ions, biomolecules, and environmental contaminants. Our pivotal work on the ultrasensitive and selective detection of glucose at a record limit of detection paves the way for next-generation, non-invasive glucose monitoring approaches for diabetic patients. Microfluidic integration allows controlled delivery of analytes and multiplexed measurements on the same chip.
@@ -83,10 +86,9 @@ Beyond classical sensing, we explore hybrid interfaces where 2D materials couple
 Additionally, our group focuses on strain sensing through flexible and wearable platforms based on liquid-processed 2D materials. Some examples include the fabrication of coated textiles and sponges for respiratory monitoring, rebound and rotation sensing, and radial pulse measurements.
 </p>
 
-<hr>
 
 <h2>Neuromorphic devices and hybrid memory interfaces</h2>
-
+<hr>
 <img src="images/NEUROMORPHIC WEBSITE.png">
 
 <p>
@@ -97,10 +99,9 @@ We work on neuromorphic hardware that combines 2D materials (i.e., transition me
 At the device level, we investigate how 2D channels, interfaces, and defects influence switching behaviour, retention, and noise in memristors and related memories. At the system level, we use these elements to implement learning rules, sequence encoding, and pattern separation that are relevant for memory processes and potential neuromorphic prostheses.
 </p>
 
-<hr>
 
 <h2>Sustainable processing and reproducibility in 2D materials</h2>
-
+<hr>
 <p>
 Across all projects, we focus on sustainable processing routes and reproducible protocols for 2D materials and devices. This includes the use of green solvents such as Cyrene for LPE, careful assessment of additives and dispersants, and systematic studies of artefacts in surface and structural characterisation (for example, recurrent AFM backgrounds from surfactant residues).
 </p>
