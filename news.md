@@ -51,36 +51,41 @@ title: News
   margin: 0;
 }
 
-/* Image Wrapper */
+/* Image Wrapper for Desktop - Natural aspect ratio without vertical cropping */
 .news-image-wrapper {
   flex: 1;
-  max-width: 220px;
+  max-width: 250px;
   width: 100%;
-  height: 180px;
-  overflow: hidden;
+  height: auto;
   border-radius: 6px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  overflow: hidden;
 }
 
 .news-image-wrapper img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
+  max-height: 220px;
+  object-fit: contain; /* Displays full image without cropping top/bottom */
   display: block;
+  border-radius: 6px;
 }
 
 /* MOBILE RESPONSIVE STYLES */
 @media (max-width: 768px) {
   .news-item {
-    flex-direction: column-reverse; /* Places image on top, text underneath on mobile */
+    flex-direction: column-reverse; /* Image on top, text below */
     align-items: stretch;
     gap: 15px;
   }
 
   .news-image-wrapper {
     max-width: 100%;
-    height: 220px; /* Gives full-width banners on phones */
     margin-bottom: 10px;
+  }
+
+  .news-image-wrapper img {
+    max-height: 280px;
+    object-fit: cover; /* Fills full banner width cleanly on mobile */
   }
 }
 </style>
@@ -88,7 +93,7 @@ title: News
   {% for item in site.data.news %}
   <div class="news-item">
     
-<!-- Text Content -->
+    <!-- Text Content -->
   <div class="news-text">
       <h2>{{ item.title }}</h2>
       <p>{{ item.description }}</p>
