@@ -90,7 +90,7 @@ title: 2D Crystal Fab
 
   <!-- RIGHT: WELCOMING TEXT CONTAINER -->
   <div class="welcome-text">
-    <h2>Welcome to 2D Crystal Fab</h2>
+    <h2>Welcome to the 2D Crystal Fab</h2>
     <p>
       We are an interdisciplinary research group focused on the synthesis, advanced characterization, and device integration of novel two-dimensional (2D) nanomaterials and heterostructures.
     </p>
