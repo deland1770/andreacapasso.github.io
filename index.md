@@ -190,7 +190,7 @@ function closeLightbox() {
 
 
 <!-- AUTOMATIC LATEST NEWS SECTION -->
-<h2 style="text-align:left; margin-top:30px;"><b>Latest News</b></h2>
+<!--<h2 style="text-align:left; margin-top:30px;"><b>Latest News</b></h2>
 <hr style="margin-bottom:20px;">
 
 <div style="max-width:1100px; margin:0 auto;">
@@ -211,7 +211,7 @@ function closeLightbox() {
     </div>
     {% endif %}
 
-  </div>
+<!--  </div>
   {% endfor %}
 </div>
 
