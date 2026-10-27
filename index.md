@@ -84,7 +84,7 @@ title: 2D Crystal Fab
     </div>
 
   <div class="mySlides fade">
-      <img src="images/" alt="Photo 3">
+      <img src="images/Cover_Advanced.jpg" alt="Photo 3">
     </div>
   </div>
 
