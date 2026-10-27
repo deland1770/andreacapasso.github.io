@@ -106,6 +106,29 @@ img {
 
 /* MOBILE RESPONSIVE STYLES (Screen widths 600px and below) */
 @media (max-width: 600px) {
+  /* Force site-nav header elements above slideshow and overlays */
+  .site-header {
+    position: relative !important;
+    z-index: 99999 !important;
+  }
+
+  .site-nav {
+    z-index: 99999 !important;
+  }
+
+  /* Ensures the expanded mobile drawer sits on top of page content */
+  .site-nav .trigger {
+    position: absolute !important;
+    right: 15px !important;
+    top: 100% !important;
+    background-color: #ffffff !important;
+    border: 1px solid #e1e1e1 !important;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.15) !important;
+    border-radius: 4px !important;
+    padding: 10px 15px !important;
+    z-index: 99999 !important;
+  }
+
   .custom-dropdown {
     display: block !important;
   }
