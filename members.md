@@ -94,20 +94,33 @@ title: Members
 }
 
 @media (max-width: 600px) {
+  /* Switch to 1 card per row on mobile to give maximum room */
   .people-grid-2,
   .people-grid-3,
   .people-grid-4,
   .people-grid-5 {
-    grid-template-columns: repeat(2, minmax(120px, 1fr));
-    gap: 15px;
+    grid-template-columns: 1fr !important;
+    gap: 35px !important;
   }
   
+  /* Increase avatar image sizes on mobile */
   .person-card-md img,
   .person-card-sm img {
-    width: 110px;
-    height: 110px;
+    width: 160px !important;
+    height: 160px !important;
   }
-}
+
+  /* Increase name and title sizes for easy reading */
+  .person-card h4 {
+    font-size: 18px !important;
+    margin-top: 8px !important;
+    margin-bottom: 4px !important;
+  }
+
+  .small-text {
+    font-size: 15px !important;
+  }
+}  
 
 @media (max-width: 400px) {
   .people-grid-2,
