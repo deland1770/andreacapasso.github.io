@@ -116,7 +116,7 @@ title: 2D Crystal Fab
     </div>
 
   <div class="mySlides fade">
-      <img src="images/SEM_MoS2.tif" alt="Photo 2" onclick="openLightbox(this.src)">
+      <img src="images/LLIC.png" alt="Photo 2" onclick="openLightbox(this.src)">
     </div>
 
   <div class="mySlides fade">
