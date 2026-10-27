@@ -27,7 +27,7 @@ title: Research
 .content img {
   display: block;
   margin: 20px auto;
-  max-width: 800px;
+  max-width: 900px;
   width: 100%;
   border-radius: 8px;
 }
@@ -55,20 +55,17 @@ We develop complementary routes to produce 2D materials in forms compatible with
 In parallel, we employ liquid-phase exfoliation (LPE) to generate inks and laminates of graphene, MXenes, and related 2D materials. By controlling flake size, thickness, and defect density, we can tune percolation pathways, mechanical robustness, and transport properties in membranes and printed devices. A key emphasis is on green solvents and surfactants that allow scalable, environmentally responsible processing.
 </p>
 
-
-
-<h2>Nanofiltration membranes and blue energy</h2>
+<h2>Neuromorphic devices and hybrid memory interfaces</h2>
 <hr>
-<img src="images/MEMBRANES_WEBSITE.png">
+<img src="images/NEUROMORPHIC WEBSITE.png">
 
 <p>
-We design nanofiltration membranes based on stacked graphene and MXene flakes, where ion transport is governed by sub-nanometre interlayer spacing and surface charge. By engineering flake morphology, functional groups, and support choice, we target high water permeance, sharp ion sieving, and resistance to fouling for desalination and water purification.
+We work on neuromorphic hardware that combines 2D materials (i.e., transition metal dichalcogenides, hexagonal boron nitride) with memristive elements to emulate synaptic plasticity and circuit-level dynamics. Our ongoing efforts involve exploring different architectures (lateral, vertical, and heterostructures) and different 2D material production techniques (CVD, electrochemical exfoliation) to finely tune the performance metrics of the devices and to achieve reproducible technology with low device-to-device variability.
 </p>
 
 <p>
-The same membranes are used as nanofluidic systems for blue energy harvesting, where salinity gradients across charged nanochannels generate electrical power. We study how interlayer spacing, charge density, and ion valence affect osmotic energy conversion, with the goal of coupling selective membranes to practical electrochemical architectures.
+At the device level, we investigate how 2D channels, interfaces, and defects influence switching behaviour, retention, and noise in memristors and related memories. At the system level, we use these elements to implement learning rules, sequence encoding, and pattern separation that are relevant for memory processes and potential neuromorphic prostheses.
 </p>
-
 
 
 <h2>Sensing and bioelectronic interfaces</h2>
@@ -86,17 +83,16 @@ Beyond classical sensing, we explore hybrid interfaces where 2D materials couple
 Additionally, our group focuses on strain sensing through flexible and wearable platforms based on liquid-processed 2D materials. Some examples include the fabrication of coated textiles and sponges for respiratory monitoring, rebound and rotation sensing, and radial pulse measurements.
 </p>
 
-
-<h2>Neuromorphic devices and hybrid memory interfaces</h2>
+<h2>Nanofiltration membranes and blue energy</h2>
 <hr>
-<img src="images/NEUROMORPHIC WEBSITE.png">
+<img src="images/MEMBRANES_WEBSITE.png">
 
 <p>
-We work on neuromorphic hardware that combines 2D materials (i.e., transition metal dichalcogenides, hexagonal boron nitride) with memristive elements to emulate synaptic plasticity and circuit-level dynamics. Our ongoing efforts involve exploring different architectures (lateral, vertical, and heterostructures) and different 2D material production techniques (CVD, electrochemical exfoliation) to finely tune the performance metrics of the devices and to achieve reproducible technology with low device-to-device variability.
+We design nanofiltration membranes based on stacked graphene and MXene flakes, where ion transport is governed by sub-nanometre interlayer spacing and surface charge. By engineering flake morphology, functional groups, and support choice, we target high water permeance, sharp ion sieving, and resistance to fouling for desalination and water purification.
 </p>
 
 <p>
-At the device level, we investigate how 2D channels, interfaces, and defects influence switching behaviour, retention, and noise in memristors and related memories. At the system level, we use these elements to implement learning rules, sequence encoding, and pattern separation that are relevant for memory processes and potential neuromorphic prostheses.
+The same membranes are used as nanofluidic systems for blue energy harvesting, where salinity gradients across charged nanochannels generate electrical power. We study how interlayer spacing, charge density, and ion valence affect osmotic energy conversion, with the goal of coupling selective membranes to practical electrochemical architectures.
 </p>
 
 
