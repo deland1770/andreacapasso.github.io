@@ -4,24 +4,28 @@ title: 2D Crystal Fab
 ---
 
 <style>
-/* Parent container to place items side-by-side */
+/* Parent container to place items side-by-side on desktop, stacked on mobile */
 .welcome-section {
   display: flex;
+  flex-wrap: wrap; /* Allows wrapping on small screens */
   align-items: center;
-  gap: 40px;
+  gap: 30px;
   max-width: 1000px;
   margin: 30px auto;
+  width: 100%;
 }
 
 /* Left side: Slideshow Container */
 .slideshow-container {
-  flex: 1;
+  flex: 1 1 300px; /* Allows shrinking and growing down to 300px min-width */
+  width: 100%;
   max-width: 500px;
-  height: 350px;
+  height: 320px;
   position: relative;
   overflow: hidden;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin: 0 auto;
 }
 
 .mySlides {
@@ -34,12 +38,12 @@ title: 2D Crystal Fab
   width: 100%;
   height: 100%;
   object-fit: cover;
-  cursor: pointer; /* Indicates the image is clickable */
+  cursor: pointer;
 }
 
 /* Right side: Welcome Text Container */
 .welcome-text {
-  flex: 1;
+  flex: 1 1 300px;
   text-align: justify;
 }
 
@@ -47,7 +51,7 @@ title: 2D Crystal Fab
   margin-top: 0;
 }
 
-/* Blur fade transition */
+/* Transition */
 .fade {
   animation-name: blurFade;
   animation-duration: 1.2s;
@@ -67,41 +71,37 @@ title: 2D Crystal Fab
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.85); /* Dark background overlay */
+  background-color: rgba(0, 0, 0, 0.85);
   justify-content: center;
   align-items: center;
 }
 
 .lightbox-content {
-  max-width: 90%;
+  max-width: 95%;
   max-height: 85vh;
   border-radius: 6px;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.5);
 }
 
 .lightbox-close {
   position: absolute;
-  top: 20px;
-  right: 35px;
+  top: 15px;
+  right: 25px;
   color: #ffffff;
-  font-size: 40px;
+  font-size: 35px;
   font-weight: bold;
   cursor: pointer;
 }
 
-.lightbox-close:hover {
-  color: #cccccc;
-}
-
-/* Responsive mobile view */
+/* Mobile Breakpoint Adjustments */
 @media (max-width: 768px) {
   .welcome-section {
     flex-direction: column;
+    gap: 20px;
   }
+
   .slideshow-container {
-    width: 100%;
     max-width: 100%;
-    height: 250px;
+    height: 230px; /* Reduced height for smaller mobile screens */
   }
 }
 </style>
@@ -163,12 +163,11 @@ function showSlides() {
   if (slideIndex > slides.length) { slideIndex = 1; }    
   
   slides[slideIndex - 1].style.display = "block";  
-  slideTimer = setTimeout(showSlides, 3500); // 3.5 seconds
+  slideTimer = setTimeout(showSlides, 3500);
 }
 
-/* LIGHTBOX FUNCTIONS */
 function openLightbox(imgSrc) {
-  isPaused = true; // Pause slideshow
+  isPaused = true;
   clearTimeout(slideTimer);
   
   let lightbox = document.getElementById("lightbox");
@@ -182,7 +181,7 @@ function closeLightbox() {
   let lightbox = document.getElementById("lightbox");
   lightbox.style.display = "none";
   
-  isPaused = false; // Resume slideshow
+  isPaused = false;
   showSlides();
 }
 </script>
