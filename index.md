@@ -9,7 +9,7 @@ title: 2D Crystal Fab
   display: flex;
   align-items: center;
   gap: 40px;
-  max-width: 1000px;
+  max-width: 1100px;
   margin: 30px auto;
 }
 
