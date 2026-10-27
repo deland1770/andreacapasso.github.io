@@ -9,15 +9,15 @@ title: 2D Crystal Fab
   display: flex;
   align-items: center;
   gap: 40px;
-  max-width: 1100px;
+  max-width: 1000px;
   margin: 30px auto;
 }
 
 /* Left side: Slideshow Container */
 .slideshow-container {
-  flex: 1; /* Takes up equal/proportionate space */
-  max-width: 500px; /* Adjust width as needed */
-  height: 350px; /* Adjust height as needed */
+  flex: 1;
+  max-width: 500px;
+  height: 350px;
   position: relative;
   overflow: hidden;
   border-radius: 8px;
@@ -34,11 +34,12 @@ title: 2D Crystal Fab
   width: 100%;
   height: 100%;
   object-fit: cover;
+  cursor: pointer; /* Indicates the image is clickable */
 }
 
 /* Right side: Welcome Text Container */
 .welcome-text {
-  flex: 1; /* Takes up equal/proportionate space */
+  flex: 1;
   text-align: justify;
 }
 
@@ -46,18 +47,53 @@ title: 2D Crystal Fab
   margin-top: 0;
 }
 
-/* Fade animation */
+/* Blur fade transition */
 .fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
+  animation-name: blurFade;
+  animation-duration: 1.2s;
 }
 
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
+@keyframes blurFade {
+  from { filter: blur(6px); opacity: 0; }
+  to { filter: blur(0px); opacity: 1; }
 }
 
-/* Mobile responsiveness: stacks vertically on small screens */
+/* LIGHTBOX (MODAL) STYLES */
+.lightbox-modal {
+  display: none; 
+  position: fixed;
+  z-index: 10000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.85); /* Dark background overlay */
+  justify-content: center;
+  align-items: center;
+}
+
+.lightbox-content {
+  max-width: 90%;
+  max-height: 85vh;
+  border-radius: 6px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 20px;
+  right: 35px;
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.lightbox-close:hover {
+  color: #cccccc;
+}
+
+/* Responsive mobile view */
 @media (max-width: 768px) {
   .welcome-section {
     flex-direction: column;
@@ -76,21 +112,21 @@ title: 2D Crystal Fab
   <!-- LEFT: SLIDESHOW CONTAINER -->
   <div class="slideshow-container">
     <div class="mySlides fade">
-      <img src="images/NEUROMORPHIC WEBSITE.png" alt="Photo 1">
+      <img src="images/Cover_Advanced.jpg" alt="Photo 1" onclick="openLightbox(this.src)">
     </div>
 
   <div class="mySlides fade">
-      <img src="images/SENSING AND BIOELECTRONICS WEBSITE.png" alt="Photo 2">
+      <img src="images/photo2.jpg" alt="Photo 2" onclick="openLightbox(this.src)">
     </div>
 
   <div class="mySlides fade">
-      <img src="images/Cover_Advanced.jpg" alt="Photo 3">
+      <img src="images/photo3.jpg" alt="Photo 3" onclick="openLightbox(this.src)">
     </div>
   </div>
 
   <!-- RIGHT: WELCOMING TEXT CONTAINER -->
   <div class="welcome-text">
-    <h2>Welcome to the 2D Crystal Fab</h2>
+    <h2>Welcome to 2D Crystal Fab</h2>
     <p>
       We are an interdisciplinary research group focused on the synthesis, advanced characterization, and device integration of novel two-dimensional (2D) nanomaterials and heterostructures.
     </p>
@@ -101,24 +137,53 @@ title: 2D Crystal Fab
 
 </div>
 
-<!-- SCRIPT FOR AUTOMATIC SLIDESHOW -->
+<!-- LIGHTBOX OVERLAY -->
+<div id="lightbox" class="lightbox-modal" onclick="closeLightbox()">
+  <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
+  <img id="lightbox-img" class="lightbox-content">
+</div>
+
+<!-- SCRIPT FOR AUTOMATIC SLIDESHOW & LIGHTBOX -->
 <script>
 let slideIndex = 0;
+let slideTimer;
+let isPaused = false;
+
 showSlides();
 
 function showSlides() {
-  let i;
+  if (isPaused) return;
+
   let slides = document.getElementsByClassName("mySlides");
-  
-  for (i = 0; i < slides.length; i++) {
+  for (let i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";  
   }
   
   slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}    
+  if (slideIndex > slides.length) { slideIndex = 1; }    
   
-  slides[slideIndex-1].style.display = "block";  
-  setTimeout(showSlides, 3500); // Changes image every 3.5 seconds
+  slides[slideIndex - 1].style.display = "block";  
+  slideTimer = setTimeout(showSlides, 3500); // 3.5 seconds
+}
+
+/* LIGHTBOX FUNCTIONS */
+function openLightbox(imgSrc) {
+  isPaused = true; // Pause slideshow
+  clearTimeout(slideTimer);
+  
+  let lightbox = document.getElementById("lightbox");
+  let lightboxImg = document.getElementById("lightbox-img");
+  
+  lightboxImg.src = imgSrc;
+  lightbox.style.display = "flex";
+}
+
+function closeLightbox() {
+  let lightbox = document.getElementById("lightbox");
+  lightbox.style.display = "none";
+  
+  isPaused = false; // Resume slideshow
+  showSlides();
 }
 </script>
 
