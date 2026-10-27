@@ -126,7 +126,7 @@ title: 2D Crystal Fab
 
   <!-- RIGHT: WELCOMING TEXT CONTAINER -->
   <div class="welcome-text">
-    <h2>Welcome to 2D Crystal Fab</h2>
+    <h2><b>Welcome to 2D Crystal Fab</b></h2>
     <p>
       We are an interdisciplinary research group focused on the synthesis, advanced characterization, and device integration of novel two-dimensional (2D) nanomaterials and heterostructures.
     </p>
@@ -190,7 +190,7 @@ function closeLightbox() {
 
 
 <!-- AUTOMATIC LATEST NEWS SECTION -->
-<h2 style="text-align:left; margin-top:30px;">Latest News</h2>
+<h2 style="text-align:left; margin-top:30px;"><b>Latest News</b></h2>
 <hr style="margin-bottom:20px;">
 
 <div style="max-width:1100px; margin:0 auto;">
