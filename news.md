@@ -18,14 +18,31 @@ title: News
   box-sizing: border-box;
 }
 
+/* Clickable Link Wrapper */
+.news-link-wrapper {
+  text-decoration: none !important;
+  color: inherit !important;
+  display: block;
+  margin-bottom: 30px;
+}
+
 /* Individual News Card */
 .news-item {
   display: flex;
   align-items: center;
   gap: 30px;
-  margin-bottom: 40px;
   border-bottom: 1px solid #ddd;
-  padding-bottom: 25px;
+  padding: 15px 15px 25px 15px;
+  border-radius: 8px;
+  transition: all 0.25s ease-in-out;
+  cursor: pointer; /* Pointer cursor indicates clickability */
+}
+
+/* HOVER EFFECTS */
+.news-link-wrapper:hover .news-item {
+  background-color: #fafafa; /* Subtle background tint */
+  transform: translateY(-3px); /* Lifts the card slightly */
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08); /* Soft drop shadow */
 }
 
 /* Text Section */
@@ -37,6 +54,7 @@ title: News
 .news-text h2 {
   margin-top: 0;
   margin-bottom: 12px;
+  color: #222;
 }
 
 .news-text p {
@@ -51,7 +69,7 @@ title: News
   margin: 0;
 }
 
-/* Image Wrapper for Desktop - Natural aspect ratio without vertical cropping */
+/* Image Wrapper */
 .news-image-wrapper {
   flex: 1;
   max-width: 250px;
@@ -65,17 +83,24 @@ title: News
   width: 100%;
   height: auto;
   max-height: 220px;
-  object-fit: contain; /* Displays full image without cropping top/bottom */
+  object-fit: contain;
   display: block;
   border-radius: 6px;
+  transition: transform 0.3s ease;
+}
+
+/* Zoom effect on image on card hover */
+.news-link-wrapper:hover .news-image-wrapper img {
+  transform: scale(1.03);
 }
 
 /* MOBILE RESPONSIVE STYLES */
 @media (max-width: 768px) {
   .news-item {
-    flex-direction: column-reverse; /* Image on top, text below */
+    flex-direction: column-reverse;
     align-items: stretch;
     gap: 15px;
+    padding: 10px;
   }
 
   .news-image-wrapper {
@@ -85,31 +110,31 @@ title: News
 
   .news-image-wrapper img {
     max-height: 280px;
-    object-fit: cover; /* Fills full banner width cleanly on mobile */
+    object-fit: cover;
   }
 }
 </style>
 
   {% for item in site.data.news %}
-  <div class="news-item">
-    
-    <!-- Text Content -->
+  <a href="{{ item.link | default: '#' }}" target="_blank" class="news-link-wrapper">
+    <div class="news-item">
+      
+      <!-- Text Content -->
   <div class="news-text">
-      <h2>{{ item.title }}</h2>
-      <p>{{ item.description }}</p>
-      <p class="news-date">{{ item.date }}</p>
-    </div>
+        <h2>{{ item.title }}</h2>
+        <p>{{ item.description }}</p>
+        <p class="news-date">{{ item.date }}</p>
+      </div>
 
-    <!-- Image -->
+      <!-- Image -->
   {% if item.image %}
-    <div class="news-image-wrapper">
-      <a href="{{ item.link | default: '#' }}" target="_blank">
+      <div class="news-image-wrapper">
         <img src="{{ item.image }}" alt="{{ item.title }}">
-      </a>
-    </div>
-    {% endif %}
+      </div>
+      {% endif %}
 
   </div>
+  </a>
   {% endfor %}
 
 </div>
