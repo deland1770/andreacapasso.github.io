@@ -17,15 +17,24 @@ title: 2D Crystal Fab
 
 /* Left side: Slideshow Container */
 .slideshow-container {
-  flex: 1 1 300px; /* Allows shrinking and growing down to 300px min-width */
+  flex: 1 1 300px;
   width: 100%;
   max-width: 500px;
-  height: 320px;
+  height: 340px;
   position: relative;
   overflow: hidden;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   margin: 0 auto;
+  background-color: #fafafa;
+  transition: transform 0.25s ease-in-out, box-shadow 0.25s ease-in-out;
+  cursor: pointer; /* Indicates clickability */
+}
+
+/* HOVER EFFECT ON SLIDESHOW (Matching News Page Style) */
+.slideshow-container:hover {
+  transform: translateY(-3px); /* Lifts the slideshow box slightly */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15); /* Soft drop shadow glow */
 }
 
 .mySlides {
@@ -37,8 +46,15 @@ title: 2D Crystal Fab
 .mySlides img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   cursor: pointer;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+/* Slight image zoom effect on hover */
+.slideshow-container:hover .mySlides img {
+  transform: scale(1.02);
 }
 
 /* Right side: Welcome Text Container */
@@ -101,7 +117,7 @@ title: 2D Crystal Fab
 
   .slideshow-container {
     max-width: 100%;
-    height: 230px; /* Reduced height for smaller mobile screens */
+    height: 250px;
   }
 }
 </style>
@@ -115,11 +131,11 @@ title: 2D Crystal Fab
       <img src="images/2Dfab.png" alt="Photo 1" onclick="openLightbox(this.src)">
     </div>
 
-  <div class="mySlides fade">
+    <div class="mySlides fade">
       <img src="images/LLIC.png" alt="Photo 2" onclick="openLightbox(this.src)">
     </div>
 
-  <div class="mySlides fade">
+    <div class="mySlides fade">
       <img src="images/Vertical+Lateral_ECM.png" alt="Photo 3" onclick="openLightbox(this.src)">
     </div>
   </div>
