@@ -49,6 +49,21 @@ img {
   object-fit: contain; /* Ensures images never get forced/cropped */
 }
 
+/* Style the header title on top left */
+.site-title {
+  font-size: 22px !important;       /* Increases size */
+  font-weight: 700 !important;      /* Makes it bold */
+  color: #1a1a1a !important;        /* Darker, crisp text color */
+  letter-spacing: -0.5px !important;/* Modern compact lettering */
+  text-decoration: none !important;
+  transition: color 0.2s ease;
+}
+
+/* Hover effect */
+.site-title:hover {
+  color: #0275d8 !important;        /* Highlight color on hover */
+}  
+
 /* DESKTOP STYLES (Screen widths larger than 600px) */
 @media (min-width: 601px) {
   .custom-nav-bar {
