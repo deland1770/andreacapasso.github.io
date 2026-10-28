@@ -49,14 +49,21 @@ img {
   object-fit: contain; /* Ensures images never get forced/cropped */
 }
 
-/* Style the header title on top left */
+/* SITE TITLE STYLING & ANIMATION */
 .site-title {
-  font-size: 22px !important;       /* Increases size */
-  font-weight: 700 !important;      /* Makes it bold */
-  color: #1a1a1a !important;        /* Darker, crisp text color */
-  letter-spacing: -0.5px !important;/* Modern compact lettering */
+  font-size: 22px !important;
+  font-weight: 700 !important;
+  color: #1a1a1a !important;
+  letter-spacing: -0.5px !important;
   text-decoration: none !important;
-  transition: color 0.2s ease;
+  display: inline-block !important;
+  transition: transform 0.25s ease-in-out !important; /* Smooth animation transition */
+}
+
+/* Hover Animation: Lifts slightly and zooms like images */
+.site-title:hover {
+  transform: translateY(-2px) scale(1.03) !important;
+  color: #1a1a1a !important; /* Maintains original color */
 }
 
 /* Hover effect */
